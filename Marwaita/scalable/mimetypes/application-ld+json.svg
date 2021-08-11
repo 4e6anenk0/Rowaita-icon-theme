@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg2"
    version="1.1"
    sodipodi:docname="application-ld+json.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,20 +24,71 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1006"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="14.338983"
-     inkscape:cy="19.627119"
+     inkscape:cx="3.9999999"
+     inkscape:cy="11.491526"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1237"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0" />
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect85"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect83"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect81"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient902">
       <stop
@@ -234,7 +285,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
+  <path
      width="23.997931"
      height="28"
      rx="0"
@@ -242,8 +293,11 @@
      x="4.0010357"
      y="2.7520487"
      id="rect4897-1"
-     style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.472558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1218)" />
-  <rect
+     style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.472558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1218)"
+     inkscape:path-effect="#path-effect83"
+     d="M 6.0010357,2.7520487 H 25.998966 a 2,2 45 0 1 2,2 V 28.752049 a 2,2 135 0 1 -2,2 H 6.0010357 a 2,2 45 0 1 -2,-2 V 4.7520487 a 2,2 135 0 1 2,-2 z"
+     sodipodi:type="rect" />
+  <path
      width="24"
      height="28"
      rx="0"
@@ -251,14 +305,20 @@
      x="4"
      y="2"
      id="rect4897"
-     style="opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.472578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
+     style="opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.472578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:path-effect="#path-effect81"
+     d="m 6,2 h 20 a 2,2 45 0 1 2,2 v 24 a 2,2 135 0 1 -2,2 H 6 A 2,2 45 0 1 4,28 V 4 A 2,2 135 0 1 6,2 Z"
+     sodipodi:type="rect" />
+  <path
      style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:0.428245"
      id="rect7379"
      width="18"
      height="8"
      x="0"
-     y="6" />
+     y="6"
+     inkscape:path-effect="#path-effect85"
+     d="m 2,6 h 14 a 2,2 45 0 1 2,2 v 4 a 2,2 135 0 1 -2,2 L 2,14 A 2,2 45 0 1 0,12 V 8 A 2,2 135 0 1 2,6 Z"
+     sodipodi:type="rect" />
   <g
      id="g1067"
      transform="translate(-21.552145,-12.683348)" />
@@ -366,15 +426,17 @@
        d="m 12.944824,7.2519531 h 0.796875 l 1.939453,3.6591799 V 7.2519531 h 0.574219 V 11.625977 H 15.458496 L 13.519043,7.9667969 v 3.6591801 h -0.574219 z"
        id="path902" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:9.83135px;line-height:1.25;font-family:sans-serif;stroke-width:1.22891"
-     x="10.172236"
-     y="27.139206"
-     id="text2521"><tspan
-       sodipodi:role="line"
-       id="tspan2519"
-       x="10.172236"
-       y="27.139206"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#999999;stroke-width:1.22891">LD</tspan></text>
+  <g
+     aria-label="LD"
+     id="text89"
+     style="font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1">
+    <path
+       d="m 12.463997,22.021152 h 0.565335 c 0.245334,0 0.373334,-0.02133 0.469335,-0.07467 0.170667,-0.106667 0.277334,-0.288001 0.277334,-0.480002 0,-0.170667 -0.08533,-0.330668 -0.234667,-0.437335 C 13.424,20.943816 13.328,20.922482 13.029332,20.922482 h -2.282674 c -0.288001,0 -0.362668,0.01067 -0.469335,0.07467 -0.170667,0.106667 -0.2773339,0.277334 -0.2773339,0.469335 0,0.181334 0.085334,0.352001 0.2346669,0.448001 0.117334,0.08533 0.234668,0.106667 0.512002,0.106667 h 0.565335 v 3.818679 h -0.565335 c -0.277334,0 -0.362668,0.01067 -0.469335,0.07467 -0.170667,0.106667 -0.2773339,0.277334 -0.2773339,0.469335 0,0.373334 0.2560009,0.554668 0.7466689,0.554668 h 5.077349 v -1.994673 c 0,-0.266667 -0.02133,-0.362667 -0.08533,-0.458668 -0.106667,-0.170667 -0.288001,-0.266667 -0.490668,-0.266667 -0.192001,0 -0.352001,0.07467 -0.469335,0.224 -0.08533,0.117334 -0.106667,0.213334 -0.106667,0.501335 v 0.896003 h -2.208007 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS Bold';fill:#999999;fill-opacity:1"
+       id="path96" />
+    <path
+       d="m 16.837328,25.839831 c -0.405335,0.01067 -0.650669,0.213334 -0.650669,0.544002 0,0.181334 0.096,0.352001 0.234667,0.448001 0.106667,0.07467 0.266668,0.106667 0.522669,0.106667 h 2.176007 c 1.685338,0.04267 2.869342,-1.045336 2.880009,-2.666675 v -0.469335 c 0,-1.632005 -1.226671,-2.901342 -2.794676,-2.880009 h -2.26134 c -0.288001,0 -0.373335,0.01067 -0.480002,0.07467 -0.170667,0.106667 -0.277334,0.288001 -0.277334,0.469335 0,0.181334 0.096,0.352001 0.245334,0.448001 0.096,0.07467 0.170667,0.096 0.405335,0.106667 z m 1.152003,0 v -3.818679 h 1.130671 c 0.981336,-0.04267 1.706672,0.693336 1.728005,1.749339 v 0.480002 c 0,1.013336 -0.661335,1.632005 -1.717339,1.589338 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Nimbus Mono PS';-inkscape-font-specification:'Nimbus Mono PS Bold';fill:#999999;fill-opacity:1"
+       id="path98" />
+  </g>
 </svg>
