@@ -9,7 +9,6 @@
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -27,30 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient878">
-      <stop
-         style="stop-color:#282828;stop-opacity:1;"
-         offset="0"
-         id="stop874" />
-      <stop
-         style="stop-color:#141414;stop-opacity:1"
-         offset="1"
-         id="stop876" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient878"
-       id="linearGradient880"
-       x1="191.965"
-       y1="58.296616"
-       x2="178.96399"
-       y2="335.04663"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05126507,0,0,0.05339202,2.1571059,2.1326)" />
-  </defs>
+     id="defs18" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -66,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="11.070641"
      inkscape:cx="10.387836"
-     inkscape:cy="13.730009"
+     inkscape:cy="20.956329"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -86,26 +62,24 @@
   <path
      d="M 3.7972375,3 H 20.202964 C 20.643207,3 21,3.45462 21,4.0155 V 19.98425 C 21,20.54515 20.643195,21 20.202964,21 H 3.7972375 C 3.3569953,21 3,20.54514 3,19.98425 V 4.0155 C 3,3.4546 3.3570154,3 3.7972375,3 Z"
      id="path6"
-     style="fill:url(#linearGradient880);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.784766;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.784766;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      inkscape:connector-curvature="0" />
   <g
      id="g1107"
-     transform="matrix(0.6515555,0,0,0.6515555,-3.637332,-5.2662207)"
-     style="fill-rule:evenodd;fill:#e6e6e6">
-	<path
-   fill="#18ffff"
-   d="M 18.5,26.5 15,24.5 V 22 l 6,3.4 v 2.1 L 15,31 v -2.5 z"
-   id="path1103"
-   style="fill:#e6e6e6" />
-
-	<rect
-   x="23"
-   y="29"
-   fill="#18ffff"
-   width="10"
-   height="2"
-   id="rect1105"
-   style="fill:#e6e6e6" />
-
-</g>
+     transform="matrix(0.397711,0,0,0.397711,-0.66167933,-3.2989479)"
+     style="fill:#cccccc;fill-rule:evenodd">
+    <path
+       fill="#18ffff"
+       d="M 18.5,26.5 15,24.5 V 22 l 6,3.4 v 2.1 L 15,31 v -2.5 z"
+       id="path1103"
+       style="fill:#cccccc" />
+    <rect
+       x="23"
+       y="29"
+       fill="#18ffff"
+       width="10"
+       height="2"
+       id="rect1105"
+       style="fill:#cccccc" />
+  </g>
 </svg>
