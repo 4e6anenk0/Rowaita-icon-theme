@@ -9,7 +9,7 @@ The mimetypes for the following files have been added to this icon pack:
 epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart.
 
 <p align="center">
-    <img width=1000 src="img/mimetypes.png" alt="Marwaita2 Logo">
+    <img width=500 src="img/mimetypes.png" alt="Marwaita2 Logo">
 </p>
 
 The following have been changed: 
