@@ -1,4 +1,4 @@
-# Marwaita2-Icons - is a modified set of icons
+# Marwaita2 - is a modified set of icons
 
 <p align="center">
     <img height=100 width=100 src="logo.png" alt="Marwaita2 Logo">
