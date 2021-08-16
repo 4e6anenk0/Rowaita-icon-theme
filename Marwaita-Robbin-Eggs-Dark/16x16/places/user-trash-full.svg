@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="user-trash-full.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>user-trash</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="19.557205"
+     inkscape:cx="-14.750163"
+     inkscape:cy="1.7251905"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">user-trash</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <path
+     id="path18"
+     style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.07042952"
+     d="M 7.9722702,6.61576 C 7.1950769,5.00655 6.3775333,6.30237 6.3775333,6.30237 L 5.7576512,7.4051 7.0336742,8.15336 Z M 10.73192,6.12278 10.0442,6.51364 9.7921531,6.06703 c 0,0 -0.194737,-0.4648 -1.1555546,-0.41609 0,0 -1.1906446,0.0335 -1.3146206,0.010597 0,0 0.3374273,0.0669 0.505263,0.32924 l 0.7602341,1.34981 -0.555555,0.3145599 1.8643261,0.0405 z m -4.5695912,3.89214 c -0.9643267,1.50181 0.5643274,1.53057 0.5643274,1.53057 l 1.2590646,-0.0417 -0.025142,-1.48303 z M 4.3096974,7.9057 4.9997562,8.29187 4.7494635,8.73965 c 0,0 -0.2935675,0.40964 0.2473684,1.2066095 0,0 0.6485383,1.0047305 0.6918129,1.1226905 0,0 -0.1187132,-0.32396 0.017549,-0.60448 L 6.4605794,9.11114 7.0178894,9.42277 6.0828011,7.80418 Z M 10.126657,9.7901498 C 11.903849,9.9028305 11.182797,8.55068 11.182797,8.55068 L 10.531918,7.46672 9.2547266,8.21322 Z M 8.2418617,10.93866 9.195077,9.33004 v 0.6414497 h 1.544446 c 0.310524,-0.017597 0.534501,-0.27993 0.534501,-0.27993 -0.08129,0.095103 -0.639182,1.1537903 -0.639182,1.1537903 -0.429239,0.8627 -0.9286539,0.80519 -0.9286539,0.80519 H 9.195077 v 0.79228 z m -5.5896933,-0.66489 0.1427406,1.67761 7.885e-4,2.9e-4 0.078575,0.97895 c 0,0 0,0.8393 0.8230444,0.8393 0.1838443,0 0.8028699,0 1.5677006,0 l 0.2719703,0.003 0.00184,-0.003 c 1.0165672,0 2.2162213,0 2.9938717,0 0,0 0,0 0,0 0,0 2.7777785,0 3.6008225,0 0.823046,0 0.905354,-0.8393 0.905354,-0.8393 L 13.664743,6.70313 13.18285,6.61523 13.689209,6.19258 11.895614,3.58542 8.7125096,5.93057 9.1980626,4.72222 4.9465806,2.93644 3.7768815,5.71618 2.974212,5.28034 l -0.6634239,1.2621 0.1972327,2.1636 0.011239,0.006 0.060802,0.71463 -3.179e-4,7.5e-4 0.063671,0.84153 0.00875,0.0049 z M 2.3665042,13.81565 C 2.4258,14.47082 3.0032533,15 3.6565098,15 H 12.34349 c 0.649734,0 1.230811,-0.53025 1.290005,-1.18435 L 14.666667,2.57143 C 15.136031,2.57143 15.5,2.15229 15.5,1.71429 15.5,1.27323 15.103304,1 14.666667,1 H 1.3333334 C 0.89872482,1 0.49999987,1.27628 0.49999987,1.71429 c 0,0.44105 0.39669585,0.85714 0.83333353,0.85714 z"
+     inkscape:connector-curvature="0" />
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="123.16806"
+       y1="37.412296"
+       x2="123.16806"
+       y2="245.25839"
+       id="linearGradient-1"
+       gradientTransform="matrix(1.0392305,0,0,0.96225045,6.0101417,-45.234224)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFFFFF"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#D3D3D3"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+</svg>

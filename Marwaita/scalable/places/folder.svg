@@ -39,9 +39,9 @@
      inkscape:window-height="1002"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="6.4375"
-     inkscape:cy="15.875"
+     inkscape:zoom="22.627417"
+     inkscape:cx="14.539883"
+     inkscape:cy="17.89864"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -194,11 +194,11 @@
        ry="1.5256726"
        rx="1.5254554"
        y="27.379999"
-       x="1.5"
+       x="1.5225"
        height="4.0450015"
        width="5.7078071"
        id="rect2504-6-1-3"
-       style="opacity:1;fill:#0082d8;fill-opacity:1;stroke:none;stroke-width:0.408444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="opacity:1;fill:#0076cb;fill-opacity:1;stroke:none;stroke-width:0.408444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <rect
        ry="1.2107997"
        rx="1.3162144"
@@ -207,7 +207,7 @@
        height="16.53717"
        width="20.97043"
        id="rect2504-6-1"
-       style="opacity:1;fill:#0082d8;fill-opacity:1;stroke:none;stroke-width:1.59631;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="opacity:1;fill:#0076cb;fill-opacity:1;stroke:none;stroke-width:1.59631;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <rect
        ry="1.0215626"
        rx="1.4729137"
@@ -234,6 +234,6 @@
        height="13.5"
        width="21"
        id="rect2504-6-1-2"
-       style="opacity:1;fill:#0099ff;fill-opacity:1;stroke:none;stroke-width:1.43125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="opacity:1;fill:#318ce7;fill-opacity:1;stroke:none;stroke-width:1.43125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
 </svg>

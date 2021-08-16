@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="user-trash.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>user-trash</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="11.718454"
+     inkscape:cx="-26.420441"
+     inkscape:cy="-0.68333076"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1192" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">user-trash</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="123.16806"
+       y1="37.412296"
+       x2="123.16806"
+       y2="245.25839"
+       id="linearGradient-1"
+       gradientTransform="matrix(1.0392305,0,0,0.96225045,6.0101417,-45.234224)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFFFFF"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#D3D3D3"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g1192"
+     transform="matrix(0.03445239,0,0,0.03445239,5.5803496,-1.7158347)">
+    <path
+       id="path18"
+       style="fill:#dfdfdf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.04425645"
+       d="M 68.758263,234.83343 C 46.199803,188.12536 22.470141,225.7371 22.470141,225.7371 l -17.992457,32.00746 37.037289,21.71873 z m 80.100357,-14.30882 -19.96145,11.34485 -7.3158,-12.96311 c 0,0 -5.65233,-13.49118 -33.540616,-12.07732 0,0 -34.559104,0.97095 -38.157589,0.30661 0,0 9.794008,1.94191 14.665546,9.55625 l 22.066223,39.17891 -16.125312,9.13039 54.113118,1.17536 z M 16.223696,333.49612 c -27.990145,43.5908 16.379932,44.42547 16.379932,44.42547 l 36.545056,-1.20944 -0.72989,-43.04567 z m -53.773662,-61.2213 20.029327,11.20857 -7.264876,12.99718 c 0,0 -8.520952,11.88994 7.180008,35.02253 0,0 18.824176,29.16274 20.080257,32.58665 0,0 -3.44572403,-9.40294 0.509224,-17.54535 l 21.896475,-39.28112 16.176229,9.04522 -27.14144,-46.98061 z m 168.840486,54.69716 c 51.58402,3.27058 30.65506,-35.97646 30.65506,-35.97646 L 143.0535,259.53316 105.98227,281.2008 Z M 76.583294,360.30813 104.2509,313.61709 v 18.61849 h 44.82837 c 9.01321,-0.51101 15.51424,-8.12535 15.51424,-8.12535 -2.35937,2.75954 -18.55258,33.48945 -18.55258,33.48945 -12.45893,25.04042 -26.95474,23.37106 -26.95474,23.37106 H 104.2509 v 22.99632 z M -93.28363,450.8102 c 1.720932,19.01654 18.48196,34.37631 37.443111,34.37631 H 196.30395 c 18.8589,0 35.72499,-15.39079 37.44312,-34.37631 l 29.98838,-326.36997 c 13.6236,0 24.18798,-12.16584 24.18798,-24.879059 0,-12.80187 -11.51433,-20.732541 -24.18798,-20.732541 h -387.00749 c -12.61474,0 -24.18797,8.019291 -24.18797,20.732541 0,12.801849 11.51432,24.879059 24.18797,24.879059 z"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#dfdfdf;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+       transform="matrix(1.9736842,0,0,1.9736842,-84.292759,30.061943)"
+       id="Group" />
+  </g>
+</svg>
