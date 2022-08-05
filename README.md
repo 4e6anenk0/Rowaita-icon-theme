@@ -13,17 +13,20 @@ Marwaita2 is an icon pack for Linux. This solution is a fork of the original ico
     <img width=500 src="img/screenshot1.png" alt="Screenshot of folders icons">
 </p>
 
-The mimetypes for the following files have been added to this icon pack: 
+3) The mimetypes for the following files have been added to this icon pack. This is really cool for developers as it allows you to quickly browse files by type. For example:
+
 <p align="center">
     <img width=500 src="img/img1.png" alt="Office icons">
 </p>
-
-epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart.
-
 <p align="center">
-    <img width=500 src="img/mimetypes.png" alt="Marwaita2 Logo">
+    <img width=500 src="img/img2.png" alt="Dev icons">
+</p>
+<p align="center">
+    <img width=500 src="img/img3.png" alt="Archives icons">
+</p>
+<p align="center">
+    <img width=500 src="img/img4.png" alt="Other icons">
 </p>
 
-The following have been changed: 
-
-android package, flatpak, hex, lua, markdown, readme
+Added or changed:
+epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart, image, php, css, perl, 7zip, aab, acad, apk, illustrator, psd, less, sass, cobol, fortran, pascal, vala, flatpak, hex, lua, markdown, readme, certificatem yaml, tar, arduino ...
