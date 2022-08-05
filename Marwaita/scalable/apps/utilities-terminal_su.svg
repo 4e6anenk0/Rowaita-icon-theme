@@ -1,81 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   version="1.1"
-   viewBox="0 0 24 24"
-   id="svg14"
-   sodipodi:docname="utilities-terminal_su.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs18" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1002"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="11.070641"
-     inkscape:cx="10.387836"
-     inkscape:cy="20.956329"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg14"
-     showguides="false"
-     inkscape:pagecheckerboard="0" />
-  <path
-     d="M 2.4301115,2.25 H 21.570124 C 22.08374,2.25 22.5,2.78038 22.5,3.43474 v 18.63021 c 0,0.6544 -0.416272,1.18505 -0.929876,1.18505 H 2.4301115 c -0.513616,0 -0.930111,-0.53068 -0.930111,-1.18505 V 3.43474 c 0,-0.65438 0.416518,-1.18474 0.930111,-1.18474 z"
-     id="path6-4-2"
-     style="opacity:0.25;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.91556;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 2.4301114,1.5 H 21.570125 C 22.083741,1.5 22.5,2.03038 22.5,2.68474 V 21.31495 C 22.5,21.96935 22.083728,22.5 21.570125,22.5 H 2.4301114 c -0.513616,0 -0.930111,-0.53068 -0.930111,-1.18505 V 2.68474 C 1.5000004,2.03036 1.9165184,1.5 2.4301114,1.5 Z"
-     id="path6-4"
-     style="fill:#cfd8dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.91556;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 3.7972375,3 H 20.202964 C 20.643207,3 21,3.45462 21,4.0155 V 19.98425 C 21,20.54515 20.643195,21 20.202964,21 H 3.7972375 C 3.3569953,21 3,20.54514 3,19.98425 V 4.0155 C 3,3.4546 3.3570154,3 3.7972375,3 Z"
-     id="path6"
-     style="fill:#da0c0c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.784766;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0" />
-  <g
-     id="g1027"
-     transform="matrix(1.1304934,0,0,1.1304934,-29.53525,-0.07788269)">
-    <path
-       d="M 35.278705,8.751176 V 9.0737185 H 32.878033 V 8.751176 Z"
-       id="path10"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;stroke-width:0.0595745" />
-    <path
-       d="m 31.229964,4.4945805 v 0.5387319 c -0.2632,0.029788 -0.469149,0.1077464 -0.616894,0.235039 -0.163829,0.1414894 -0.245977,0.3348739 -0.245977,0.579922 0,0.2257334 0.0754,0.4032894 0.225734,0.532679 0.137766,0.1172904 0.350929,0.2033932 0.637149,0.2587793 v 1.041362 c -0.135669,-0.00815 -0.268317,-0.031184 -0.39794,-0.070512 -0.156383,-0.0498 -0.311371,-0.12264 -0.46496,-0.2189838 v 0.4063157 c 0.159641,0.067718 0.318354,0.1186843 0.476131,0.1533567 0.128925,0.026992 0.257844,0.043512 0.386769,0.050498 v 0.6827835 h 0.404457 V 7.992236 c 0.278094,-0.030947 0.494749,-0.1119342 0.648587,-0.2438856 0.171509,-0.1475425 0.257147,-0.3483676 0.257147,-0.6024767 0,-0.2348073 -0.08052,-0.4198159 -0.241324,-0.5552519 C 32.152236,6.4675179 31.930226,6.3790853 31.634469,6.3243959 V 5.3514258 c 0.107049,0.00954 0.212001,0.02746 0.314624,0.054687 0.132184,0.034675 0.260871,0.083309 0.385609,0.146607 V 5.1578069 C 32.209964,5.1170823 32.082207,5.0856682 31.95119,5.0630955 31.848562,5.0442452 31.742912,5.0309802 31.634469,5.0233012 V 4.4945777 Z m 0,0.8619828 v 0.8938555 c -0.142419,-0.032114 -0.2497,-0.077959 -0.321142,-0.1379985 -0.08424,-0.072371 -0.126363,-0.173135 -0.126363,-0.3025249 0,-0.132184 0.04584,-0.2382981 0.137533,-0.3181156 0.0754,-0.065395 0.178956,-0.1103084 0.309972,-0.1352044 z m 0.404457,1.3634808 c 0.154524,0.03584 0.270879,0.0868 0.348374,0.1526595 0.09332,0.078191 0.139863,0.1836086 0.139863,0.3160248 0,0.1352043 -0.04887,0.2443511 -0.146607,0.3271947 -0.08052,0.069118 -0.194779,0.1179878 -0.341624,0.1473101 z"
-       id="path12"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;stroke-width:0.0595745" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <rect style="opacity:0.2" width="40" height="36" x="4" y="7" rx="3" ry="3"/>
+ <rect style="fill:#f44336" width="40" height="36" x="4" y="6" rx="3" ry="3"/>
+ <path style="fill:#ffffff;opacity:0.2" d="M 7 6 C 5.338 6 4 7.338 4 9 L 4 10 C 4 8.338 5.338 7 7 7 L 41 7 C 42.662 7 44 8.338 44 10 L 44 9 C 44 7.338 42.662 6 41 6 L 7 6 z"/>
+ <rect style="opacity:0.2" width="12" height="4" x="20" y="23" rx="1" ry="1"/>
+ <rect style="fill:#ffffff" width="12" height="4" x="20" y="22" rx="1" ry="1"/>
+ <rect style="opacity:0.2" width="12.245" height="4.082" x="-12.71" y="23.12" rx="1.02" ry="1.02" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
+ <rect style="fill:#faa19b" width="12.245" height="4.082" x="-11.98" y="22.39" rx="1.02" ry="1.02" transform="matrix(0.72685813,-0.68678763,0.72685813,0.68678763,0,0)"/>
+ <rect style="opacity:0.2" width="12.245" height="4.082" x="14.96" y="-4.55" rx="1.02" ry="1.02" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
+ <rect style="fill:#ffffff" width="12.245" height="4.082" x="14.23" y="-3.82" rx="1.02" ry="1.02" transform="matrix(0.72685813,0.68678763,0.72685813,-0.68678763,0,0)"/>
 </svg>

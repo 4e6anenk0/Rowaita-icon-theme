@@ -1,1 +1,126 @@
-system-file-manager.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="nautilus.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.129139"
+     inkscape:cx="18.077698"
+     inkscape:cy="21.580871"
+     inkscape:current-layer="svg24" />
+  <g
+     id="g281"
+     transform="matrix(1.4360771,0,0,1.4360771,1.0227664,1.0227664)">
+    <rect
+       style="fill:#5895dc"
+       width="24"
+       height="17"
+       x="4"
+       y="1"
+       rx="1.275"
+       ry="1.275"
+       id="rect257" />
+    <rect
+       style="opacity:0.1"
+       width="24"
+       height="17"
+       x="4"
+       y="3"
+       rx="1.275"
+       ry="1.275"
+       id="rect259" />
+    <rect
+       style="fill:#89e058"
+       width="24"
+       height="17"
+       x="4"
+       y="4"
+       rx="1.275"
+       ry="1.275"
+       id="rect261" />
+    <rect
+       style="opacity:0.1"
+       width="24"
+       height="17"
+       x="4"
+       y="6"
+       rx="1.275"
+       ry="1.275"
+       id="rect263" />
+    <rect
+       style="fill:#ffcd54"
+       width="24"
+       height="17"
+       x="4"
+       y="7"
+       rx="1.275"
+       ry="1.275"
+       id="rect265" />
+    <rect
+       opacity="0.2"
+       width="28"
+       height="20"
+       x="2"
+       y="11"
+       rx="1.5"
+       ry="1.5"
+       id="rect267" />
+    <rect
+       fill="#8e8e8e"
+       width="28"
+       height="20"
+       x="2"
+       y="10"
+       rx="1.5"
+       ry="1.5"
+       id="rect269" />
+    <rect
+       opacity="0.2"
+       width="10"
+       height="3"
+       x="11"
+       y="19"
+       rx="1"
+       ry="1"
+       id="rect271" />
+    <rect
+       fill="#ececec"
+       width="10"
+       height="3"
+       x="11"
+       y="18"
+       rx="1"
+       ry="1"
+       id="rect273" />
+    <path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 5.2754,1 C 4.569,1 4,1.569 4,2.2754 v 1 C 4,2.569 4.569,2 5.2754,2 H 26.725 C 27.431,2 28,2.569 28,3.2754 v -1 C 28,1.569 27.431,1 26.725,1 Z"
+       id="path275" />
+    <path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 5.2754,3.9996 C 4.569,3.9996 4,4.5686 4,5.275 v 1 C 4,5.5686 4.569,4.9996 5.2754,4.9996 H 26.725 c 0.706,0 1.275,0.569 1.275,1.2754 v -1 C 28,4.5686 27.431,3.9996 26.725,3.9996 Z"
+       id="path277" />
+    <path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 5.2754,6.9996 C 4.569,6.9996 4,7.5686 4,8.275 v 1 C 4,8.5686 4.569,7.9996 5.2754,7.9996 H 26.725 c 0.706,0 1.275,0.569 1.275,1.2754 v -1 C 28,7.5686 27.431,6.9996 26.725,6.9996 Z"
+       id="path279" />
+  </g>
+</svg>

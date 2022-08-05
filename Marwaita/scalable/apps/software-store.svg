@@ -1,1 +1,59 @@
-muon.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1"
+   id="svg14"
+   sodipodi:docname="software-store.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="21.395833"
+     inkscape:cx="24.046738"
+     inkscape:cy="24.046738"
+     inkscape:current-layer="svg14" />
+  <path
+     fill="#e4e4e4"
+     d="m17 4-2 2v4h-12v30c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-30h-12v-4l-2-2zm0 2h12v4h-12z"
+     id="path2"
+     style="fill:#ececec" />
+  <path
+     opacity=".2"
+     d="m17 6v1h12v-1h-12zm-14 34v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"
+     id="path4" />
+  <circle
+     opacity=".2"
+     cx="36"
+     cy="37"
+     r="11"
+     id="circle6" />
+  <circle
+     fill="#4ab3e4"
+     cx="36"
+     cy="36"
+     r="11"
+     id="circle8" />
+  <path
+     fill="#fff"
+     d="m38 29v5.0536h2.625l-4.625 6.946-4.625-7h2.625v-5h4zm-7 12h10v2h-10z"
+     id="path10" />
+  <path
+     fill="#fff"
+     opacity=".2"
+     d="m17 4l-2 2v1l2-2h12l2 2v-1l-2-2h-12zm-14 6v1h12v-1h-12zm14 0v1h12v-1h-12zm14 0v1h12v-1h-12z"
+     id="path12" />
+</svg>
