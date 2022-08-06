@@ -1,11 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="12" ry="12"/>
- <rect style="fill:#795548" width="40" height="40" x="4" y="4" rx="12" ry="12"/>
- <path style="fill:#6d4c41" d="M 16 4 C 14.593947 4 13.251734 4.2509647 12 4.6914062 L 12 12 L 20 12 L 20 4 L 16 4 z M 20 12 L 20 20 L 28 20 L 28 12 L 20 12 z M 28 12 L 36 12 L 36 4.6914062 C 34.748266 4.2509647 33.406053 4 32 4 L 28 4 L 28 12 z M 36 12 L 36 20 L 44 20 L 44 16 C 44 14.593947 43.749035 13.251734 43.308594 12 L 36 12 z M 36 20 L 28 20 L 28 28 L 36 28 L 36 20 z M 36 28 L 36 36 L 43.308594 36 C 43.749035 34.748266 44 33.406053 44 32 L 44 28 L 36 28 z M 36 36 L 28 36 L 28 44 L 32 44 C 33.406053 44 34.748266 43.749035 36 43.308594 L 36 36 z M 28 36 L 28 28 L 20 28 L 20 36 L 28 36 z M 20 36 L 12 36 L 12 43.308594 C 13.251734 43.749035 14.593947 44 16 44 L 20 44 L 20 36 z M 12 36 L 12 28 L 4 28 L 4 32 C 4 33.406053 4.2509647 34.748266 4.6914062 36 L 12 36 z M 12 28 L 20 28 L 20 20 L 12 20 L 12 28 z M 12 20 L 12 12 L 4.6914062 12 C 4.2509647 13.251734 4 14.593947 4 16 L 4 20 L 12 20 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 16,4 C 9.352,4 4,9.352 4,16 v 1 C 4,10.352 9.352,5 16,5 h 16 c 6.648,0 12,5.352 12,12 V 16 C 44,9.352 38.648,4 32,4 Z"/>
- <rect style="fill:#bdbdbd" width="12" height="18" x="18" y="17"/>
- <path style="opacity:0.2" d="m 14,11 v 6 c 0,2.216 1.784,4 4,4 h 12 c 2.216,0 4,-1.784 4,-4 v -6 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 z"/>
- <path style="fill:#ffffff" d="m 14,10 v 6 c 0,2.216 1.784,4 4,4 h 12 c 2.216,0 4,-1.784 4,-4 v -6 h -4 v 4 h -4 v -4 h -4 v 4 h -4 v -4 z"/>
- <path style="opacity:0.2" d="m 15,33 c -1.662,0 -3,1.338 -3,3 v 3 h 24 v -3 c 0,-1.662 -1.338,-3 -3,-3 z"/>
- <path style="fill:#ffffff" d="m 15,32 c -1.662,0 -3,1.338 -3,3 v 3 h 24 v -3 c 0,-1.662 -1.338,-3 -3,-3 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="chess.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.7822848"
+     inkscape:cx="41.112715"
+     inkscape:cy="5.6843947"
+     inkscape:current-layer="svg20" />
+  <rect
+     style="opacity:0.2"
+     width="40"
+     height="40"
+     x="4"
+     y="5"
+     rx="12"
+     ry="12"
+     id="rect2" />
+  <rect
+     style="fill:#808080"
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     rx="12"
+     ry="12"
+     id="rect4" />
+  <path
+     style="fill:#ececec"
+     d="M 16 4 C 14.593947 4 13.251734 4.2509647 12 4.6914062 L 12 12 L 20 12 L 20 4 L 16 4 z M 20 12 L 20 20 L 28 20 L 28 12 L 20 12 z M 28 12 L 36 12 L 36 4.6914062 C 34.748266 4.2509647 33.406053 4 32 4 L 28 4 L 28 12 z M 36 12 L 36 20 L 44 20 L 44 16 C 44 14.593947 43.749035 13.251734 43.308594 12 L 36 12 z M 36 20 L 28 20 L 28 28 L 36 28 L 36 20 z M 36 28 L 36 36 L 43.308594 36 C 43.749035 34.748266 44 33.406053 44 32 L 44 28 L 36 28 z M 36 36 L 28 36 L 28 44 L 32 44 C 33.406053 44 34.748266 43.749035 36 43.308594 L 36 36 z M 28 36 L 28 28 L 20 28 L 20 36 L 28 36 z M 20 36 L 12 36 L 12 43.308594 C 13.251734 43.749035 14.593947 44 16 44 L 20 44 L 20 36 z M 12 36 L 12 28 L 4 28 L 4 32 C 4 33.406053 4.2509647 34.748266 4.6914062 36 L 12 36 z M 12 28 L 20 28 L 20 20 L 12 20 L 12 28 z M 12 20 L 12 12 L 4.6914062 12 C 4.2509647 13.251734 4 14.593947 4 16 L 4 20 L 12 20 z"
+     id="path6" />
+  <path
+     style="opacity:0.1;fill:#ffffff"
+     d="M 16,4 C 9.352,4 4,9.352 4,16 v 1 C 4,10.352 9.352,5 16,5 h 16 c 6.648,0 12,5.352 12,12 V 16 C 44,9.352 38.648,4 32,4 Z"
+     id="path8" />
+  <g
+     id="g322"
+     transform="translate(0,-0.04245496)">
+    <rect
+       style="fill:#1a1a1a"
+       width="12"
+       height="18"
+       x="18"
+       y="17.524836"
+       id="rect10" />
+    <g
+       id="g309"
+       transform="translate(0.108958,-0.51470934)">
+      <path
+         style="opacity:0.2"
+         d="m 13.891042,9.4751642 v 6.0000008 c 0,2.216 1.784,4 4,4 h 12 c 2.216,0 4,-1.784 4,-4 V 9.4751642 h -4 v 4.0000008 h -4 V 9.4751642 h -4 v 4.0000008 h -4 V 9.4751642 Z"
+         id="path12" />
+      <path
+         style="fill:#1a1a1a"
+         d="m 13.891042,8.4751643 v 6.0000007 c 0,2.216 1.784,4 4,4 h 12 c 2.216,0 4,-1.784 4,-4 V 8.4751643 h -4 v 4.0000007 h -4 V 8.4751643 h -4 v 4.0000007 h -4 V 8.4751643 Z"
+         id="path14" />
+    </g>
+    <g
+       id="g313">
+      <path
+         style="opacity:0.2"
+         d="m 15,33.524836 c -1.662,0 -3,1.338 -3,3 v 3 h 24 v -3 c 0,-1.662 -1.338,-3 -3,-3 z"
+         id="path16" />
+      <path
+         style="fill:#1a1a1a"
+         d="m 15,32.524836 c -1.662,0 -3,1.338 -3,3 v 3 h 24 v -3 c 0,-1.662 -1.338,-3 -3,-3 z"
+         id="path18" />
+    </g>
+  </g>
 </svg>
