@@ -1,9 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg26420"
+   sodipodi:docname="appointment-missed.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26422"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="64.1875"
+     inkscape:cx="6.6212269"
+     inkscape:cy="8.0467381"
+     inkscape:current-layer="svg26420" />
+  <defs
+     id="defs26414">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 10,10 v 1.414062 L 11.585938,13 10,14.585938 V 16 h 1.414062 L 13,14.414062 14.585938,16 H 16 V 14.585938 L 14.414062,13 16,11.414062 V 10 H 14.585938 L 13,11.585938 11.414062,10 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 2,1 C 1,1 1,2 1,2 v 12 c 0,1 1,1 1,1 H 9 V 13 H 3 V 6 h 10 v 3 h 2 V 2 C 15,1 14,1 14,1 Z"/>
+  </defs>
+  <path
+     style="fill:#dfdfdf;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="m 10,10 v 1.414062 L 11.585938,13 10,14.585938 V 16 h 1.414062 L 13,14.414062 14.585938,16 H 16 V 14.585938 L 14.414062,13 16,11.414062 V 10 H 14.585938 L 13,11.585938 11.414062,10 Z"
+     id="path26416" />
+  <path
+     style="opacity:0.3;fill:#e9e9e9;fill-opacity:0.72482002"
+     class="ColorScheme-Text"
+     d="M 2,1 C 1,1 1,2 1,2 v 12 c 0,1 1,1 1,1 H 9 V 13 H 3 V 6 h 10 v 3 h 2 V 2 C 15,1 14,1 14,1 Z"
+     id="path26418" />
 </svg>
