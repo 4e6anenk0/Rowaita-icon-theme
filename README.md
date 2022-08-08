@@ -2,7 +2,9 @@
     <img width=200 height=200 src="logo.png" alt="Logo">
 </p>
 
-Marwaita2 is an icon pack for Linux. This solution is a fork of the original icon pack [Marwaita](https://github.com/darkomarko42/Marwaita-Icons), but implements some modifications and changes. You can see some of the differences below:
+Marwaita2 is an icon pack for Linux. This solution is a fork of the [original](https://github.com/darkomarko42/Marwaita-Icons) icon pack (but it's still the same old implementation with filetype labels, for those who remember and love). 
+
+This fork includes some modifications and changes. Below you can see some key differences:
 
 1) Changed the design of some icons to better match the overall style.
 
@@ -13,7 +15,11 @@ Marwaita2 is an icon pack for Linux. This solution is a fork of the original ico
 </p>
 
 <p align="center">
-    <img src="img/screenshot1.png" alt="Screenshot of folders icons">
+    <img src="img/screenshot1.png" alt="Screenshot of folders icons on desktop">
+</p>
+
+<p align="center">
+    <img src="img/screenshot3.png" alt="Screenshot of icons on desktop">
 </p>
 
 ___
