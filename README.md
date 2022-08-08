@@ -1,7 +1,5 @@
-# Marwaita2
-
 <p align="center">
-    <img src="logo.png" alt="Logo">
+    <img width=200 height=200 src="logo.png" alt="Logo">
 </p>
 
 Marwaita2 is an icon pack for Linux. This solution is a fork of the original icon pack [Marwaita](https://github.com/darkomarko42/Marwaita-Icons), but implements some modifications and changes. You can see some of the differences below:
@@ -9,6 +7,10 @@ Marwaita2 is an icon pack for Linux. This solution is a fork of the original ico
 1) Changed the design of some icons to better match the overall style.
 
 2) Changed the shape and design of folders. They are now rounded and have bold symbols on the folder icon. As for me, now they are perfectly combined with the Gnome UI. Look at this:
+
+<p align="center">
+    <img src="img/screenshot2.png" alt="Screenshot of folders icons">
+</p>
 
 <p align="center">
     <img src="img/screenshot1.png" alt="Screenshot of folders icons">
