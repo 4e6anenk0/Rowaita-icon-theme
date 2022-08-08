@@ -13,7 +13,7 @@ Marwaita2 is an icon pack for Linux. This solution is a fork of the original ico
     <img width=500 src="img/screenshot1.png" alt="Screenshot of folders icons">
 </p>
 
-<a align="center" href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee ❤️" height="41" width="174"></a>
+<div align="center"> <a href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee ❤️" height="41" width="174"></a> </div>
 
 
 3) The mimetypes for the following files have been added to this icon pack. This is really cool for developers as it allows you to quickly browse files by type. For example:
