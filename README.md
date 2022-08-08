@@ -1,8 +1,18 @@
+# Marwaita2
+
 <p align="center">
     <img width=200 height=200 src="logo.png" alt="Logo">
 </p>
 
 Marwaita2 is an icon pack for Linux. This solution is a fork of the [original](https://github.com/darkomarko42/Marwaita-Icons) icon pack (but it's still the same old implementation with filetype labels, for those who remember and love). 
+
+## Installation instruction:
+
+Move the folders (Marwaita, Marwaita-Dark, Marwaita-Light) of icons to: **/home/.local/share/icons** or **/home/.icons** (in user mode) or **/usr/share/icons** (in root mode).
+
+\* If the desired target folder does not exist, you can create it
+
+## Key differences:
 
 This fork includes some modifications and changes. Below you can see some key differences:
 
@@ -49,3 +59,16 @@ ___
 
 Added or changed:
 epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart, image, php, css, perl, 7zip, aab, acad, apk, illustrator, psd, less, sass, cobol, fortran, pascal, vala, flatpak, hex, lua, markdown, readme, certificatem yaml, tar, arduino, binary, sql, wasm, bzip, rar, tar, C#, C++, C, Swift, Obj C, erlang, go, haskell, hex, go, kotlin, lua, ruby, rust, sl ...
+
+___
+
+<p align="center"> 
+If you like this icons pack, please consider buying me a coffee:
+</p>
+
+<p align="center"> <a href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee ❤️" height="41"></a> </p>
+
+This project has mixed projects:
+
+- [Marwaita icons](https://github.com/darkomarko42/Marwaita-Icons): GNU General Public License v3.0
+- [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): GNU General Public License v3.0
