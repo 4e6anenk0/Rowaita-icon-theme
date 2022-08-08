@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    version="1.1"
    id="svg22"
    sodipodi:docname="audio-input-microphone.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,13 +40,16 @@
      inkscape:window-height="709"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="3.3559322"
-     inkscape:cy="22.067797"
+     inkscape:zoom="19.666667"
+     inkscape:cx="10.144068"
+     inkscape:cy="25.398305"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18" />
+     inkscape:current-layer="g18"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      transform="translate(0,16)"
      id="g20">
@@ -59,7 +62,7 @@
          id="path6-3"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#325481;stroke-width:0.85365856"
+         style="fill:#333333;stroke-width:0.85365856"
          d="m 310.31185,246.72195 -86.41973,128.6052 c -11.30541,12.60901 -12.46491,22.1385 -8.17777,36.60571 6.26751,20.832 18.65349,30.94054 37.44201,33.98808 18.6082,3.81062 25.47223,-0.78329 39.15636,-12.72369 l 120.1945,-104.87851 2.66206,1.90355 z"
          id="path6"
          inkscape:connector-curvature="0" />
