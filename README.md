@@ -11,7 +11,7 @@ This fork includes some modifications and changes. Below you can see some key di
 2) Changed the shape and design of folders. They are now rounded and have bold symbols on the folder icon. As for me, now they are perfectly combined with the Gnome UI. Look at this:
 
 <p align="center">
-    <img src="img/screenshot2.png" alt="Screenshot of folders icons">
+    <img width=500 src="img/screenshot2.png" alt="Screenshot of folders icons">
 </p>
 
 <p align="center">

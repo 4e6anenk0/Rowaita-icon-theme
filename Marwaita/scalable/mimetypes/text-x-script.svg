@@ -28,8 +28,8 @@
      id="namedview47"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="-7.34375"
-     inkscape:cy="16.96875"
+     inkscape:cx="-7.40625"
+     inkscape:cy="17.03125"
      inkscape:window-x="0"
      inkscape:window-y="1237"
      inkscape:window-maximized="1"
@@ -253,7 +253,7 @@
        id="filter1218"
        x="-0.00052002417"
        width="1.00104"
-       y="-0.00044569656"
+       y="-0.00044569657"
        height="1.0008914">
       <feGaussianBlur
          inkscape:collect="always"
@@ -558,15 +558,17 @@
      inkscape:path-effect="#path-effect54"
      d="M 2.0159121,6.0319653 H 16.015912 a 2,2 45 0 1 2,2 v 3.9999997 a 2,2 135 0 1 -2,2 l -13.9999999,0 a 2,2 45 0 1 -1.99999999,-2 V 8.0319653 a 2,2 135 0 1 1.99999999,-2 z"
      sodipodi:type="rect" />
-  <text
-     xml:space="preserve"
-     style="font-weight:bold;font-size:6.66667px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Bold';opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0491339"
-     x="6.0292439"
-     y="12.368633"
-     id="text1466"><tspan
-       sodipodi:role="line"
-       id="tspan1464"
-       x="6.0292439"
-       y="12.368633"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#e6e6e6;fill-opacity:1;stroke:none">#!</tspan></text>
+  <g
+     aria-label="#!"
+     id="text1466"
+     style="font-weight:bold;font-size:6.66667px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,  Bold';opacity:1;fill:#e6e6e6;stroke-width:0.0491339">
+    <path
+       d="M 9.2825788,9.6219653 9.1292454,10.375299 h 0.8400004 v 0.673334 H 9.0025787 l -0.2533335,1.32 H 8.0359116 l 0.2533334,-1.32 H 7.6559114 l -0.2466668,1.32 H 6.7092443 l 0.2400001,-1.32 H 6.1759107 V 10.375299 H 7.0759111 L 7.2292445,9.6219653 H 6.4092441 V 8.941965 H 7.3492446 L 7.602578,7.6152977 H 8.3159117 L 8.0625782,8.941965 h 0.646667 L 8.9625787,7.6152977 H 9.662579 L 9.4092456,8.941965 H 10.189246 V 9.6219653 Z M 7.7825781,10.375299 H 8.4225784 L 8.5759118,9.6219653 H 7.9359115 Z"
+       style="font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+       id="path358" />
+    <path
+       d="M 11.689246,10.788633 H 10.895912 L 10.729246,7.608631 h 1.126667 z m -0.973334,1.113333 q 0,-0.306666 0.166667,-0.426666 0.166667,-0.126667 0.406667,-0.126667 0.233333,0 0.4,0.126667 0.166667,0.12 0.166667,0.426666 0,0.293334 -0.166667,0.426667 -0.166667,0.126667 -0.4,0.126667 -0.24,0 -0.406667,-0.126667 -0.166667,-0.133333 -0.166667,-0.426667 z"
+       style="font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+       id="path360" />
+  </g>
 </svg>
