@@ -4,11 +4,11 @@
     <img width=200 height=200 src="logo.png" alt="Logo">
 </p>
 
-Marwaita2 is an icon pack for Linux. This solution is a fork of the [original](https://github.com/darkomarko42/Marwaita-Icons) icon pack (but it's still the same old implementation with filetype labels, for those who remember and love). 
+Rowaita is an icon pack for Linux. This solution is a fork of the [original](https://github.com/darkomarko42/Marwaita-Icons) icon pack (but it's still the same old implementation with filetype labels, for those who remember and love). 
 
 ## Installation instruction:
 
-Move the folders (Marwaita, Marwaita-Dark, Marwaita-Light) of icons to: **/home/.local/share/icons** or **/home/.icons** (in user mode) or **/usr/share/icons** (in root mode).
+Move the folders (Rowaita, Rowaita-Dark, Rowaita-Light) of icons to: **/home/.local/share/icons** or **/home/.icons** (in user mode) or **/usr/share/icons** (in root mode).
 
 \* If the desired target folder does not exist, you can create it
 
