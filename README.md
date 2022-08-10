@@ -1,4 +1,4 @@
-# Rocket-Waita Icons
+# Rowaita icons
 
 <p align="center">
     <img width=200 height=200 src="logo.png" alt="Logo">
