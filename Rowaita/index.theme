@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Marwaita
-Comment=Marwaita icon theme
+Name=Rowaita
+Comment=Rowaita icon theme
 Inherits=gnome,hicolor,elementary
 
 Example=folder
