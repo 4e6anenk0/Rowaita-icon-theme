@@ -2,22 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
    height="24"
    width="24"
    version="1.1"
-   sodipodi:docname="battery-empty.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
+   sodipodi:docname="battery-caution.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+     id="defs12" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -30,35 +29,22 @@
      inkscape:window-height="711"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="15.525424"
-     inkscape:cy="8"
+     inkscape:zoom="20.85965"
+     inkscape:cx="5.6089148"
+     inkscape:cy="14.118166"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9" />
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <g
+     inkscape:current-layer="layer9"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" /><metadata
+     id="metadata90"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Gnome Symbolic Icon Theme</dc:title></cc:Work></rdf:RDF></metadata><title
+     id="title9167">Gnome Symbolic Icon Theme</title><g
      id="layer9"
-     transform="rotate(90,133.0003,99.998825)">
-    <path
-       id="path2930"
-       style="color:#bebebe;text-indent:0;text-transform:none;fill:#dfdfdf;fill-opacity:1"
-       d="m 42.470175,213.0003 c -0.49033,0 -0.79607,0.22846 -1.0312,0.46875 -0.23518,0.24029 -0.4375,0.52725 -0.4375,1 v 0.53 h -1 -1 v 1 12 1 h 1 10 1 v -1 -12 -1 h -1 -1 v -0.375 -0.0312 -0.0312 c -0.02393,-0.4306 -0.17023,-0.72105 -0.40625,-1 -0.22374,-0.26444 -0.6267,-0.52931 -1.1562,-0.53125 v -0.0312 h -0.0625 -4.9062 z m 4.531,2 v 0 1 1 h 1 1 v 10 h -8 v -10 h 1 5 v -1 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccccccc" />
-  </g>
-</svg>
+     transform="rotate(90,133.0003,99.998825)"><path
+       id="path313"
+       style="fill:#dfdfdf;fill-opacity:1;stroke-width:1.15789"
+       d="m 38.054107,228.52544 c 0,1.91516 1.558528,3.47368 3.473685,3.47368 h 6.947367 c 1.915157,0 3.473685,-1.55852 3.473685,-3.47368 V 215.7886 c 0,-1.91516 -1.558528,-3.47369 -3.473685,-3.47369 0,-1.27831 -1.037475,-2.31579 -2.315789,-2.31579 h -2.315788 c -1.278316,0 -2.31579,1.03748 -2.31579,2.31579 -1.915157,0 -3.473685,1.55853 -3.473685,3.47369 z m 2.315789,0 V 215.7886 c 0,-0.638 0.518736,-1.1579 1.157896,-1.1579 h 6.947367 c 0.639158,0 1.157896,0.5199 1.157896,1.1579 v 12.73684 c 0,0.638 -0.518738,1.15789 -1.157896,1.15789 h -6.947367 c -0.63916,0 -1.157896,-0.51989 -1.157896,-1.15789 z" /></g></svg>

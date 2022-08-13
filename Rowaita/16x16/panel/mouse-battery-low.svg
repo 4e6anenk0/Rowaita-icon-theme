@@ -1,10 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="mouse-battery-low.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="22.693708"
+     inkscape:cx="1.5422777"
+     inkscape:cy="8.5265924"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 2.5,1.99965 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -2,-0.002 0,-3e-4 L 0,13.5 C 0,13.777 0.223,14 0.5,14 l 6,0 C 6.777,14 7,13.777 7,13.5 l 0,-10.50165 -0.5,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 12,2.0000009 C 10.237272,2.0000009 9,3.507 9,6 l 3,0 z m 1,0 L 13,6 16,6 C 16,3.507 14.762728,2.0000009 13,2.0000009 Z M 9,7 9,9.5000005 C 9,11.993 10.419091,14 12.181818,14 l 0.636364,0 C 14.580909,14 16,11.993 16,9.5000005 L 16,7 12.818182,7 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 0,10 0,3.5 C 0,13.777 0.223,14 0.5,14 l 6,0 C 6.777,14 7,13.777 7,13.5 L 7,10 Z"/>
+  </defs>
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 11.5,2.0000005 c -1.762728,0 -3,1.5069991 -3,3.999999 h 3 z m 1,0 v 3.999999 h 3 c 0,-2.4929999 -1.237272,-3.999999 -3,-3.999999 z m -4,4.999999 V 9.5000001 C 8.5,11.993 9.919091,14 11.681818,14 h 0.636364 C 14.080909,14 15.5,11.993 15.5,9.5000001 V 6.9999995 h -3.181818 z"
+     id="path7" />
+  <g
+     id="g312"
+     transform="translate(20.838222,-4.645413)">
+    <path
+       id="path256"
+       style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586"
+       d="m -20.338222,16.750679 c 0,1.044633 0.807601,1.894734 1.8,1.894734 h 3.6 c 0.992398,0 1.8,-0.850101 1.8,-1.894734 v -6.94737 c 0,-1.0446339 -0.807602,-1.8947396 -1.8,-1.8947396 0,-0.6972616 -0.537601,-1.2631564 -1.2,-1.2631564 h -1.2 c -0.662399,0 -1.2,0.5658948 -1.2,1.2631564 -0.992399,0 -1.8,0.8501057 -1.8,1.8947396 z m 1.2,0 v -6.94737 c 0,-0.3480004 0.2688,-0.6315835 0.6,-0.6315835 h 3.6 c 0.331199,0 0.6,0.2835831 0.6,0.6315835 v 6.94737 c 0,0.347999 -0.268801,0.631578 -0.6,0.631578 h -3.6 c -0.3312,0 -0.6,-0.283579 -0.6,-0.631578 z" />
+    <path
+       d="m -14.938143,16.119304 c 0,0.348634 -0.268199,0.631584 -0.6,0.631584 h -2.4 c -0.3318,0 -0.6,-0.28295 -0.6,-0.631584 0,-0.348627 0.2682,-0.631577 0.6,-0.631577 h 2.4 c 0.331801,0 0.6,0.28295 0.6,0.631577 z"
+       id="path250"
+       style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586" />
+  </g>
 </svg>

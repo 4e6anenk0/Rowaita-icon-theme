@@ -1,10 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="bluetooth-active.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="42.791667"
+     inkscape:cx="11.988315"
+     inkscape:cy="12.023369"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(-32 -792.34)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m44.5 796.36c-3.047 0-5.5 2.676-5.5 6v4c0 3.324 2.453 6 5.5 6s5.5-2.676 5.5-6v-4c0-3.324-2.453-6-5.5-6zm-0.5 2h0.5c0.20775 0 0.39305 0.13292 0.46875 0.3125l2.875 2.8438 0.40625 0.375-0.4375 0.34375-2.5625 2.125 2.5625 2.125 0.4375 0.34375-0.40625 0.375-2.875 2.8438c-0.0252 0.0599-0.0798 0.11106-0.125 0.15625-0.0904 0.0904-0.20525 0.15625-0.34375 0.15625h-0.5v-4.9375l-2.1562 1.7812c-0.0905 0.0905-0.20568 0.15625-0.34375 0.15625h-0.5v-0.5c0-0.15322 0.079-0.28328 0.1875-0.375l2.5625-2.125-2.4375-2.0312c-0.0467-0.0197-0.0868-0.0615-0.125-0.0937-0.10854-0.0917-0.1875-0.22178-0.1875-0.375v-0.5h0.5c0.12292 0 0.22543 0.0514 0.3125 0.125 0.0107 0.009 0.0213 0.0213 0.0312 0.0312l2.1562 1.7812v-4.9375zm1 1.6875v3.25l1.7812-1.4688-1.7812-1.7812zm0 5.375v3.25l1.7812-1.7812-1.7812-1.4688z"/>
- </g>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.43747"
+     class="ColorScheme-Text"
+     d="M 10.657468,0.6428555 A 1.4376179,1.4376179 0 0 0 9.8432737,1.9371438 V 7.782498 L 6.4124275,5.1153091 A 1.4374741,1.4374741 0 0 0 4.3965946,5.3679902 1.4374741,1.4374741 0 0 0 4.6492756,7.383823 l 5.1939981,4.040089 v 1.151102 l -5.1939981,4.040089 a 1.4374741,1.4374741 0 0 0 -0.252681,2.015831 1.4374741,1.4374741 0 0 0 2.0158329,0.252683 l 3.4308462,-2.667189 v 5.845355 a 1.4376179,1.4376179 0 0 0 2.3358953,1.123026 l 7.187372,-5.749898 a 1.4376179,1.4376179 0 0 0 -0.01685,-2.257282 l -4.085005,-3.178165 4.085009,-3.178167 a 1.4376179,1.4376179 0 0 0 0.01685,-2.257283 L 12.17917,0.8141172 A 1.4376179,1.4376179 0 0 0 10.657468,0.6428555 Z m 2.060754,4.2871543 3.428041,2.7429932 -3.223089,2.507158 -0.204952,-0.160033 z m 0.204952,8.8887572 3.223089,2.507156 -3.428041,2.742994 v -5.090119 z"
+     id="path5" />
 </svg>

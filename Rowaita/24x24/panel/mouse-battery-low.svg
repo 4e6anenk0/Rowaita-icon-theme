@@ -1,12 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="mouse-battery-low.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.5645694"
+     inkscape:cx="41.509302"
+     inkscape:cy="23.332458"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(-104 -768.36)">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m109.5 772.36c-0.27701 0-0.5 0.22301-0.5 0.50001v0.5l-2-0.002v-0.00026l-0.00001 14.502c0 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-14.501-0.50001 0.002h-1.5v-0.5c0-0.277-0.22301-0.50001-0.5-0.50001z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m107 782.36-0.00001 5.5017c-0.00001 0.277 0.22299 0.5 0.5 0.5h6c0.27699 0 0.5-0.223 0.5-0.5l0.00001-5.5017z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m121 772.36c-2.77 0-5 2.676-5 6h5zm1 0v6h5c0-3.324-2.23-6-5-6zm-6 7v3c0 3.324 2.23 6 5 6h1c2.77 0 5-2.676 5-6v-3h-5z"/>
- </g>
+  </defs>
+  <g
+     id="g243"
+     transform="matrix(1.3333333,0,0,1.3333333,1.3333336,1.3333336)">
+    <path
+       style="color:#dfdfdf;fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 11.5,2.0000005 c -1.762728,0 -3,1.5069991 -3,3.999999 h 3 z m 1,0 v 3.999999 h 3 c 0,-2.4929999 -1.237272,-3.999999 -3,-3.999999 z m -4,4.999999 V 9.5000001 C 8.5,11.993 9.919091,14 11.681818,14 h 0.636364 C 14.080909,14 15.5,11.993 15.5,9.5000001 V 6.9999995 h -3.181818 z"
+       id="path7" />
+    <g
+       id="g312"
+       transform="translate(20.838222,-4.645413)">
+      <path
+         id="path256"
+         style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586"
+         d="m -20.338222,16.750679 c 0,1.044633 0.807601,1.894734 1.8,1.894734 h 3.6 c 0.992398,0 1.8,-0.850101 1.8,-1.894734 v -6.94737 c 0,-1.0446339 -0.807602,-1.8947396 -1.8,-1.8947396 0,-0.6972616 -0.537601,-1.2631564 -1.2,-1.2631564 h -1.2 c -0.662399,0 -1.2,0.5658948 -1.2,1.2631564 -0.992399,0 -1.8,0.8501057 -1.8,1.8947396 z m 1.2,0 v -6.94737 c 0,-0.3480004 0.2688,-0.6315835 0.6,-0.6315835 h 3.6 c 0.331199,0 0.6,0.2835831 0.6,0.6315835 v 6.94737 c 0,0.347999 -0.268801,0.631578 -0.6,0.631578 h -3.6 c -0.3312,0 -0.6,-0.283579 -0.6,-0.631578 z" />
+      <path
+         d="m -14.938143,16.119304 c 0,0.348634 -0.268199,0.631584 -0.6,0.631584 h -2.4 c -0.3318,0 -0.6,-0.28295 -0.6,-0.631584 0,-0.348627 0.2682,-0.631577 0.6,-0.631577 h 2.4 c 0.331801,0 0.6,0.28295 0.6,0.631577 z"
+         id="path250"
+         style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586" />
+    </g>
+  </g>
 </svg>
