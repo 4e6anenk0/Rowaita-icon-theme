@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Marwaita Light
-Comment=Marwaita icon theme
-Inherits=Marwaita
+Name=Rowaita Light
+Comment=Rowaita icon theme
+Inherits=Rowaita
 
 Example=folder
 
