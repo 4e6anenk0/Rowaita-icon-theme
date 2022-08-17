@@ -22,7 +22,7 @@
      showgrid="false"
      inkscape:zoom="42.791667"
      inkscape:cx="11.988315"
-     inkscape:cy="12.023369"
+     inkscape:cy="12.093476"
      inkscape:current-layer="svg9" />
   <defs
      id="defs3">
@@ -34,7 +34,7 @@
   </defs>
   <g
      id="g258"
-     transform="translate(3.9999999,4)">
+     transform="matrix(1.375,0,0,1.375,0.99999987,1)">
     <path
        id="path2"
        style="fill:#dfdfdf;fill-opacity:1"

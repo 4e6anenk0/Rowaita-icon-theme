@@ -21,8 +21,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.5645694"
-     inkscape:cx="41.509302"
-     inkscape:cy="23.332458"
+     inkscape:cx="41.509303"
+     inkscape:cy="23.729044"
      inkscape:current-layer="svg13" />
   <defs
      id="defs3">
@@ -34,15 +34,17 @@
   </defs>
   <g
      id="g243"
-     transform="matrix(1.3333333,0,0,1.3333333,1.3333336,1.3333336)">
+     transform="matrix(1.3333333,0,0,1.3333333,1.3333336,1.3333336)"
+     style="fill:#ff9800;fill-opacity:1">
     <path
-       style="color:#dfdfdf;fill:currentColor"
+       style="color:#dfdfdf;fill:#ff9800;fill-opacity:1"
        class="ColorScheme-Text"
        d="m 11.5,2.0000005 c -1.762728,0 -3,1.5069991 -3,3.999999 h 3 z m 1,0 v 3.999999 h 3 c 0,-2.4929999 -1.237272,-3.999999 -3,-3.999999 z m -4,4.999999 V 9.5000001 C 8.5,11.993 9.919091,14 11.681818,14 h 0.636364 C 14.080909,14 15.5,11.993 15.5,9.5000001 V 6.9999995 h -3.181818 z"
        id="path7" />
     <g
        id="g312"
-       transform="translate(20.838222,-4.645413)">
+       transform="translate(20.838222,-4.645413)"
+       style="fill:#ff9800;fill-opacity:1">
       <path
          id="path256"
          style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586"

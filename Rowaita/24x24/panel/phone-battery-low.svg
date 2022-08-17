@@ -22,7 +22,7 @@
      showgrid="false"
      inkscape:zoom="7.5645694"
      inkscape:cx="-46.797112"
-     inkscape:cy="2.0490261"
+     inkscape:cy="2.4456118"
      inkscape:current-layer="svg13" />
   <defs
      id="defs3">
@@ -34,15 +34,17 @@
   </defs>
   <g
      id="g419"
-     transform="translate(45.060517)">
+     transform="translate(45.060517)"
+     style="fill:#ff9800;fill-opacity:1">
     <path
-       style="color:#ff9800;fill:#dfdfdf;fill-opacity:1;stroke-width:1.33333"
+       style="color:#ff9800;fill:#ff9800;fill-opacity:1;stroke-width:1.33333"
        class="ColorScheme-NeutralText"
        d="m -31.060517,4 c -0.738667,0 -1.333333,0.594667 -1.333333,1.333333 v 13.333334 c 0,0.738666 0.594666,1.333333 1.333333,1.333333 h 6.666667 c 0.738666,0 1.333333,-0.594667 1.333333,-1.333333 V 5.333333 C -23.060517,4.594667 -23.655184,4 -24.39385,4 Z m 0.953125,1.333333 h 4.760416 c 0.52762,0 0.953126,0.446 0.953126,1 v 10 c 0,0.554 -0.425506,1 -0.953126,1 h -4.760416 c -0.52762,0 -0.953125,-0.446 -0.953125,-1 v -10 c 0,-0.554 0.425505,-1 0.953125,-1 z"
        id="path7-3" />
     <g
        id="g312"
-       transform="matrix(1.3333333,0,0,1.3333333,-15.942888,-4.8605502)">
+       transform="matrix(1.3333333,0,0,1.3333333,-15.942888,-4.8605502)"
+       style="fill:#ff9800;fill-opacity:1">
       <path
          id="path256"
          style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586"

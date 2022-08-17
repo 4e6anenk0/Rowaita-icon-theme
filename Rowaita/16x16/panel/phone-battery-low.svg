@@ -21,8 +21,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="16.046875"
-     inkscape:cx="-28.666017"
-     inkscape:cy="9.4410905"
+     inkscape:cx="-28.6037"
+     inkscape:cy="9.6280428"
      inkscape:current-layer="svg11" /><defs
      id="defs3"><style
        id="current-color-scheme"
@@ -33,7 +33,7 @@
        type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style></defs><path
-     style="fill:#dfdfdf;fill-opacity:1"
+     style="fill:#ff9800;fill-opacity:1"
      class="ColorScheme-NeutralText"
      d="m 9.5,2 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 5 c 0.554,0 1,-0.446 1,-1 V 3 c 0,-0.554 -0.446,-1 -1,-1 z m 0.714844,1 h 3.570312 C 14.180871,3 14.5,3.3345 14.5,3.75 v 7.5 C 14.5,11.6655 14.180871,12 13.785156,12 H 10.214844 C 9.819129,12 9.5,11.6655 9.5,11.25 V 3.75 C 9.5,3.3345 9.819129,3 10.214844,3 Z"
      id="path7" /><g
