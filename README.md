@@ -60,6 +60,21 @@ ___
 Added or changed:
 epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart, image, php, css, perl, 7zip, aab, acad, apk, illustrator, psd, less, sass, cobol, fortran, pascal, vala, flatpak, hex, lua, markdown, readme, certificatem yaml, tar, arduino, binary, sql, wasm, bzip, rar, tar, C#, C++, C, Swift, Obj C, erlang, go, haskell, hex, go, kotlin, lua, ruby, rust, sl ...
 
+## Known problems and ways to solve them:
+### Problem: Icons are missing or displayed incorrectly in Flatpack applications
+If your Flatpack apps are missing icons or not showing up, here's what you can do:
+1) Make sure that the icons are actually in the required directory. That is, they must not be placed via a symbolic link.
+2) Grant permission to the directory of custom icons. This can be done globally or for the user. For example: 
+```bash
+# globally
+flatpak override --filesystem=~/.icons
+# or for user
+flatpak --user override --filesystem=~/.icons
+```
+If it doesn't work, you can try this:
+```bash
+sudo flatpak override --system --filesystem=~/.icons
+```
 ___
 
 <p align="center"> 

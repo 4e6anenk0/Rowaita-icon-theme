@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Rowaita Dark
-Comment=Rowaita icon theme
+Name=Rowaita-Dark
+Comment=Rowaita icon theme for dark themes
 Inherits=Rowaita
 
 Example=folder
