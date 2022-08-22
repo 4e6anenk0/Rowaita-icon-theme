@@ -23,13 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="64.1875"
-     inkscape:cx="7.9922103"
-     inkscape:cy="8.0155794"
+     inkscape:zoom="11.346854"
+     inkscape:cx="-8.1079741"
+     inkscape:cy="13.527979"
      inkscape:current-layer="svg4" />
-  <path
-     d="m 3.988281 3.992188 v 8.011718 h 8.011719 v -8.011718 z m 2 2 h 4.011719 v 4.011718 h -4.011719 z m 0 0"
-     fill="#2e3436"
-     id="path2"
-     style="fill:#444444;fill-opacity:1" />
+  <g
+     id="g244"
+     transform="matrix(1.0015,0,0,1.0015,-0.012,-0.012)">
+    <path
+       style="color:#444444;fill:currentColor"
+       class="ColorScheme-Text"
+       d="M 5,4 C 4.446,4 4,4.446 4,5 v 6 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 V 5 C 12,4.446 11.554,4 11,4 Z m 1.5,2 h 3 C 9.777,6 10,6.223 10,6.5 v 3 C 10,9.777 9.777,10 9.5,10 h -3 C 6.223,10 6,9.777 6,9.5 v -3 C 6,6.223 6.223,6 6.5,6 Z"
+       id="path5" />
+  </g>
 </svg>
