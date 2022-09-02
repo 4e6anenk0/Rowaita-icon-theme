@@ -40,8 +40,8 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="8.0000004"
-     inkscape:cx="0.062499997"
-     inkscape:cy="15.187499"
+     inkscape:cx="-30.124998"
+     inkscape:cy="4.1874998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1057,15 +1057,15 @@
      sodipodi:type="rect"
      d="m 7.5693626,17.525478 h 8.9200514 a 1,1 45 0 1 1,1 v 0.09494 a 1,1 135 0 1 -1,1 l -8.9200514,0 a 1,1 45 0 1 -1,-1 v -0.09494 a 1,1 135 0 1 1,-1 z" />
   <path
-     style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.75;opacity:0.55"
+     style="opacity:0.55;fill:#1a1a1a;fill-opacity:1;stroke-width:0.75"
      id="rect112-3"
      width="5.1120782"
      height="0.68695211"
-     x="9.4733496"
-     y="3.8410842"
+     x="9.4439611"
+     y="4.9751878"
      inkscape:path-effect="#path-effect1281"
      sodipodi:type="rect"
-     d="m 9.8733496,3.8410842 4.3120784,0 a 0.4,0.4 45 0 1 0.4,0.4 0.3480959,0.3480959 144.34509 0 1 -0.4,0.2869522 H 9.8733496 a 0.4,0.4 45 0 1 -0.4,-0.4 0.3480959,0.3480959 144.34509 0 1 0.4,-0.2869522 z" />
+     d="m 9.8439611,4.9751878 h 4.3120779 a 0.4,0.4 45 0 1 0.4,0.4 0.3480959,0.3480959 144.34509 0 1 -0.4,0.2869521 H 9.8439611 a 0.4,0.4 45 0 1 -0.4,-0.4 0.3480959,0.3480959 144.34509 0 1 0.4,-0.2869521 z" />
   <path
      style="fill:#000000;fill-opacity:1;stroke-width:0.75;opacity:0.55"
      id="rect112-5"
@@ -1076,23 +1076,4 @@
      sodipodi:type="rect"
      d="m 5.7329979,7.2360311 12.5927811,0 a 1,1 45 0 1 1,1 v 6.7540599 a 1,1 135 0 1 -1,1 H 5.7329979 a 1,1 45 0 1 -1,-1 V 8.2360311 a 1,1 135 0 1 1,-1 z"
      inkscape:path-effect="#path-effect28929" />
-  <g
-     id="g562"
-     transform="translate(-0.45695114,-0.02082825)"
-     style="opacity:0.55;fill:#333333">
-    <rect
-       style="fill:#333333;stroke-width:0.75"
-       id="rect508"
-       width="3.0946655"
-       height="1.8302765"
-       x="9.3575134"
-       y="4.8910556" />
-    <rect
-       style="fill:#333333;stroke-width:0.75"
-       id="rect508-3"
-       width="3.0946655"
-       height="1.8302765"
-       x="12.5205"
-       y="4.8910556" />
-  </g>
 </svg>
