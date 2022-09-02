@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.2167969 1 L 4.9042969 1.28125 L 1.2792969 4.90625 L 0.99804688 5.21875 L 0.99804688 10.78125 L 1.2792969 11.09375 L 4.9042969 14.71875 L 5.2167969 15 L 10.779297 15 L 11.091797 14.71875 L 14.716797 11.09375 L 14.998047 10.78125 L 14.998047 5.21875 L 14.716797 4.90625 L 11.091797 1.28125 L 10.779297 1 L 5.2167969 1 z M 5.9980469 3 L 9.9980469 3 L 12.998047 6 L 12.998047 10 L 9.9980469 13 L 5.9980469 13 L 2.9980469 10 L 2.9980469 6 L 5.9980469 3 z M 6.4355469 4 L 3.9980469 6.4375 L 3.9980469 9.5625 L 6.4355469 12 L 9.5605469 12 L 11.998047 9.5625 L 11.998047 6.4375 L 9.5605469 4 L 6.4355469 4 z" transform="translate(4 4)"/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="64.1875" inkscape:cx="7.9922103" inkscape:cy="8.0155794" inkscape:current-layer="svg4"/>
+  <path d="m 3 2 c -0.265625 0 -0.519531 0.105469 -0.707031 0.292969 c -0.390625 0.390625 -0.390625 1.023437 0 1.414062 l 4.292969 4.292969 l -4.292969 4.292969 c -0.390625 0.390625 -0.390625 1.023437 0 1.414062 s 1.023437 0.390625 1.414062 0 l 4.292969 -4.292969 l 4.292969 4.292969 c 0.390625 0.390625 1.023437 0.390625 1.414062 0 s 0.390625 -1.023437 0 -1.414062 l -4.292969 -4.292969 l 4.292969 -4.292969 c 0.390625 -0.390625 0.390625 -1.023437 0 -1.414062 c -0.1875 -0.1875 -0.441406 -0.292969 -0.707031 -0.292969 s -0.519531 0.105469 -0.707031 0.292969 l -4.292969 4.292969 l -4.292969 -4.292969 c -0.1875 -0.1875 -0.441406 -0.292969 -0.707031 -0.292969 z m 0 0" fill="#2e3436" id="path2" style="fill:#444444;fill-opacity:1"/>
+</g>
 </svg>

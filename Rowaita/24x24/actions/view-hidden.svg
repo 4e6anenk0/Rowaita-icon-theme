@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="11.346854" inkscape:cx="-10.487488" inkscape:cy="14.14489" inkscape:current-layer="svg7"/>
+  <defs id="defs3">
+    <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <g transform="matrix(1,0,0,1,4,4)">
-  <path d="M 8 3 C 2 3 0 8 0 8 C 0 8 2 13 8 13 C 14 13 16 8 16 8 C 16 8 14 3 8 3 z M 8 5 A 3 3 0 0 1 11 8 A 3 3 0 0 1 8 11 A 3 3 0 0 1 5 8 A 3 3 0 0 1 8 5 z M 8 7 A 1 1 0 0 0 7 8 A 1 1 0 0 0 8 9 A 1 1 0 0 0 9 8 A 1 1 0 0 0 8 7 z" style="fill:currentColor" class="ColorScheme-Text"/>
- </g>
+  </defs>
+  <g id="g239">
+    <path d="M 8,2 C 4.351562,2.003906 1.167969,4.476562 0.261719,8.007812 1.175781,11.535156 4.359375,13.996094 8,14 11.648438,13.996094 14.832031,11.523438 15.738281,7.988281 14.824219,4.464844 11.640625,2.003906 8,2 Z m 0,2 c 2.210938,0 4,1.789062 4,4 0,2.210938 -1.789062,4 -4,4 C 5.789062,12 4,10.210938 4,8 4,5.789062 5.789062,4 8,4 Z M 8,6 C 6.894531,6 6,6.894531 6,8 6,9.105469 6.894531,10 8,10 9.105469,10 10,9.105469 10,8 10,6.894531 9.105469,6 8,6 Z m 0,0" fill="#2e3436" id="path2" style="fill:#444444;fill-opacity:1"/>
+  </g>
+</g>
 </svg>

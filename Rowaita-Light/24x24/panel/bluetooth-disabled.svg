@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="65.8125" inkscape:cx="7.9924027" inkscape:cy="8.0151947" inkscape:current-layer="svg7"/>
+  <defs id="defs3">
+    <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(-56 -792.34)">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m68.5 796.36c-3.047 0-5.5 2.676-5.5 6v4c0 3.324 2.453 6 5.5 6s5.5-2.676 5.5-6v-4c0-3.324-2.453-6-5.5-6zm-0.5 2h0.5c0.20775 0 0.39305 0.13292 0.46875 0.3125l2.875 2.8438 0.40625 0.375-0.4375 0.34375-2.5625 2.125 2.5625 2.125 0.4375 0.34375-0.40625 0.375-2.875 2.8438c-0.0252 0.0599-0.0798 0.11106-0.125 0.15625-0.0904 0.0904-0.20525 0.15625-0.34375 0.15625h-0.5v-4.9375l-2.1562 1.7812c-0.0905 0.0905-0.20568 0.15625-0.34375 0.15625h-0.5v-0.5c0-0.15322 0.079-0.28328 0.1875-0.375l2.5625-2.125-2.4375-2.0312c-0.0467-0.0197-0.0868-0.0615-0.125-0.0937-0.10854-0.0917-0.1875-0.22178-0.1875-0.375v-0.5h0.5c0.12292 0 0.22543 0.0514 0.3125 0.125 0.0107 0.009 0.0213 0.0213 0.0312 0.0312l2.1562 1.7812v-4.9375zm1 1.6875v3.25l1.7812-1.4688-1.7812-1.7812zm0 5.375v3.25l1.7812-1.7812-1.7812-1.4688z"/>
- </g>
+  </defs>
+  <path style="opacity:0.3;fill:#444444;fill-opacity:1" class="ColorScheme-Text" d="m 6.9257818,0.00277181 c -0.124722,0.00915 -0.246621,0.04052 -0.359375,0.094609 -0.345995,0.1665116 -0.566107,0.5164139 -0.566407,0.9003906 V 3.0270683 l 2,1.5585937 V 3.079803 L 10.384766,4.9880062 9.4492188,5.7165218 11.076172,6.9840999 12.613281,5.7868343 C 13.123813,5.3902178 13.129556,4.6207138 12.625,4.2165218 L 7.6249998,0.21652181 c -0.197581,-0.1573389 -0.447378,-0.2329984 -0.699218,-0.21375 z m -4.69336,2.11804689 -1.232422,1.5761719 5,3.9003906 V 8.3981624 L 2.3867188,11.20871 c -0.435458,0.338893 -0.514122,0.966456 -0.175781,1.402343 0.338893,0.435458 0.966456,0.514122 1.402344,0.175781 l 2.386718,-1.855468 v 4.066406 c -3.5e-4,0.838869 0.970049,1.305407 1.625,0.78125 L 12.005859,12.275116 13.767578,13.648163 15,12.071991 Z m 5.910156,7.1425781 2.2402342,1.7460942 -2.3828122,1.90625 V 9.3747249 Z" id="path5"/>
+</g>
 </svg>

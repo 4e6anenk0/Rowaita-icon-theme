@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5 7 C 2.67765 7 2 7.67765 2 8.5 C 2 9.32235 2.67765 10 3.5 10 C 4.32235 10 5 9.32235 5 8.5 C 5 7.67765 4.32235 7 3.5 7 z M 7.5 7 C 6.67765 7 6 7.67765 6 8.5 C 6 9.32235 6.67765 10 7.5 10 C 8.32235 10 9 9.32235 9 8.5 C 9 7.67765 8.32235 7 7.5 7 z M 11.5 7 C 10.67765 7 10 7.67765 10 8.5 C 10 9.32235 10.67765 10 11.5 10 C 12.32235 10 13 9.32235 13 8.5 C 13 7.67765 12.32235 7 11.5 7 z" transform="translate(4 4)"/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="64.1875" inkscape:cx="7.9922103" inkscape:cy="8.0155794" inkscape:current-layer="svg4"/>
+  <path d="m 2 6.007812 c -1.105469 0 -2 0.894532 -2 2 c 0 1.101563 0.894531 2 2 2 s 2 -0.898437 2 -2 c 0 -1.105468 -0.894531 -2 -2 -2 z m 6 0 c -1.105469 0 -2 0.894532 -2 2 c 0 1.101563 0.894531 2 2 2 s 2 -0.898437 2 -2 c 0 -1.105468 -0.894531 -2 -2 -2 z m 6 0 c -1.105469 0 -2 0.894532 -2 2 c 0 1.101563 0.894531 2 2 2 s 2 -0.898437 2 -2 c 0 -1.105468 -0.894531 -2 -2 -2 z m 0 0" fill="#2e3436" id="path2" style="fill:#444444;fill-opacity:1"/>
+</g>
 </svg>

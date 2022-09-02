@@ -1,11 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="8.2265625" inkscape:cx="47.650522" inkscape:cy="4.1937322" inkscape:current-layer="svg9"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(1,1)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,5 C 2.892,5 2,5.892 2,7 V 15 C 2,16.108 2.892,17 4,17 H 17 V 15 H 5 V 7 H 17 V 8 H 20 V 7 C 20,5.892 19.108,5 18,5 Z M 10,5.5 H 12 V 6 H 10 Z"/>
-  <path class="ColorScheme-Highlight" d="M 18,9 V 13 L 18.25,15 H 19.75 L 20,13 V 9 Z M 18,16 V 18 H 20 V 16 Z" style="fill:currentColor"/>
- </g>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+      <style id="current-color-scheme-6" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <path style="fill:#444444;fill-opacity:1" class="ColorScheme-Text" d="M 2 2 C 0.892 2 0 2.892 0 4 L 0 12 C 0 13.108 0.892 14 2 14 L 13 14 L 13 12 L 3 12 L 3 4 L 13 4 L 13 5 L 16 5 L 16 4 C 16 2.892 15.108 2 14 2 L 2 2 z M 7 2.5 L 9 2.5 L 9 3 L 7 3 L 7 2.5 z" id="path5"/>
+    <g id="g311" transform="translate(6.999906,2)" style="fill:#ff9800;fill-opacity:1">
+      <path style="fill:#ff9800;fill-opacity:1" d="M 8,11" id="path293"/>
+      <path style="fill:#ff9800;fill-opacity:1" d="m 8,11 c 0.550781,0 1,0.449219 1,1 0,0.550781 -0.449219,1 -1,1 -0.550781,0 -1,-0.449219 -1,-1 0,-0.550781 0.449219,-1 1,-1 z" id="path291"/>
+      <path style="fill:#ff9800;fill-opacity:1" d="M 9,4 V 9 C 9.007812,9.527344 8.527344,10 8,10 7.472656,10 6.992188,9.527344 7,9 V 4 Z" id="path289"/>
+    </g>
+  </g>
 </svg>

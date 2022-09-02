@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="23.268233" inkscape:cx="-7.4350296" inkscape:cy="10.894682" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(-32 -572.36)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m40.5 580.36c-2.4853 0-4.5 2.0147-4.5 4.5s2.0147 4.5 4.5 4.5c1.9047-0.003 3.6014-1.2042 4.2363-3l3.2637-0.004v2h3v-2.0039l1 0.004v-3l-7.2637 0.004c-0.6349-1.7958-2.3316-2.9973-4.2363-3zm0 3c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5z"/>
- </g>
+    </defs>
+    <path d="M 7.917969,0.9999998 C 6.300781,0.9999998 5,2.3007808 5,3.9179688 v 1.082031 H 4 V 11 h 3 v 2 H 2 v 2 H 14 V 13 H 9 v -2 h 3 V 4.9999998 H 11 V 3.9179688 C 11,2.3007808 9.699219,0.9999998 8.082031,0.9999998 Z m 0.08203,2 c 0.554688,0 1,0.445312 1,1 v 1 h -2 v -1 c 0,-0.554688 0.445312,-1 1,-1 z m 0,0" fill="#2e3436" id="path2" style="fill:#444444;fill-opacity:1"/>
+  </g>
 </svg>

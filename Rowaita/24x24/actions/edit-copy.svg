@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3 1.0039062 C 3 1.0039062 2 1.0039062 2 2.0039062 L 2 11.003906 C 2 11.003906 2 12.003906 3 12.003906 L 4 12.003906 L 4 3.0039062 L 12 3.0039062 L 12 2.0039062 C 12 1.0039062 11 1.0039062 11 1.0039062 L 3 1.0039062 z M 6 4.0039062 C 6 4.0039062 5 4.0039062 5 5.0039062 L 5 15.003906 C 5 16.003906 6 16.003906 6 16.003906 L 14 16.003906 C 14 16.003906 15 16.0029 15 15 L 15 5.0039062 C 15 4.0039062 14 4.0039062 14 4.0039062 L 6 4.0039062 z M 7 6.0039062 L 13 6.0039062 L 13 14.003906 L 7 14.003906 L 7 6.0039062 z" transform="translate(4 4)"/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="64.1875" inkscape:cx="7.9922103" inkscape:cy="8.0155794" inkscape:current-layer="svg4"/>
+  <path d="m 0 3 c 0 -1.644531 1.355469 -3 3 -3 h 5 c 1.644531 0 3 1.355469 3 3 c 0 0.550781 -0.449219 1 -1 1 s -1 -0.449219 -1 -1 c 0 -0.570312 -0.429688 -1 -1 -1 h -5 c -0.570312 0 -1 0.429688 -1 1 v 5 c 0 0.570312 0.429688 1 1 1 c 0.550781 0 1 0.449219 1 1 s -0.449219 1 -1 1 c -1.644531 0 -3 -1.355469 -3 -3 z m 5 5 c 0 -1.644531 1.355469 -3 3 -3 h 5 c 1.644531 0 3 1.355469 3 3 v 5 c 0 1.644531 -1.355469 3 -3 3 h -5 c -1.644531 0 -3 -1.355469 -3 -3 z m 2 0 v 5 c 0 0.570312 0.429688 1 1 1 h 5 c 0.570312 0 1 -0.429688 1 -1 v -5 c 0 -0.570312 -0.429688 -1 -1 -1 h -5 c -0.570312 0 -1 0.429688 -1 1 z m 0 0" fill="#2e3436" id="path2" style="fill:#444444;fill-opacity:1"/>
+</g>
 </svg>

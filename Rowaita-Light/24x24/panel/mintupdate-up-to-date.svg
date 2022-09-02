@@ -1,10 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="32.09375" inkscape:cx="-1.1528724" inkscape:cy="7.3067186" inkscape:current-layer="svg9"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <g>
-  <path style="fill:currentColor;fill-rule:evenodd" class="ColorScheme-Text" d="M 15,9 16.414,10.4141 11,16 7.5859,12.4141 9,11 11,13.172 Z M 12,4 C 9.8519,5.9698 6.2346,7.7049 5,8 5,13.333 7.625,19.111 12,20 16.375,19.111 19,13.333 19,8 17.765,7.7049 14.148,5.9698 12,4 Z"/>
- </g>
+    </defs>
+    <path id="path2" style="fill:#444444;fill-opacity:1" d="M 8 0 C 7.7441413 0 7.4882809 0.097656635 7.2929688 0.29296875 L 5.5859375 2 L 3 2 C 2.4492202 2 2 2.4492202 2 3 L 2 5.5859375 L 0.29296875 7.2929688 C -0.097655669 7.683593 -0.097655669 8.316407 0.29296875 8.7070312 L 2 10.414062 L 2 13 C 2 13.550779 2.4492202 14 3 14 L 5.5859375 14 L 7.2929688 15.707031 C 7.4882804 15.90234 7.7421886 16 8 16 C 8.2578114 16 8.5117196 15.902344 8.7070312 15.707031 L 10.414062 14 L 13 14 C 13.550779 14 14 13.550779 14 13 L 14 10.414062 L 15.707031 8.7070312 C 16.097656 8.316407 16.097656 7.683593 15.707031 7.2929688 L 14 5.5859375 L 14 3 C 14 2.4492202 13.550779 2 13 2 L 10.414062 2 L 8.7070312 0.29296875 C 8.5117191 0.097656635 8.2558587 0 8 0 z M 9.9238281 5.4882812 C 10.073762 5.3383594 10.316875 5.3383594 10.466797 5.4882812 L 11.009766 6.03125 C 11.159687 6.1811718 11.159687 6.4242969 11.009766 6.5742188 L 7.6171875 9.96875 L 7.0742188 10.511719 C 6.9243671 10.661641 6.6811718 10.661641 6.53125 10.511719 L 5.9882812 9.96875 L 4.9902344 8.9707031 C 4.8403125 8.8207696 4.8403125 8.5776562 4.9902344 8.4277344 L 5.5332031 7.8847656 C 5.6831366 7.7348438 5.92625 7.7348438 6.0761719 7.8847656 L 6.8027344 8.6113281 L 9.9238281 5.4882812 z "/>
+    <g id="g293" transform="matrix(0.01169347,0,0,0.01169347,4.8780072,4.8779955)">
+      <g id="g238">
+	<g id="g236">
+		
+	</g>
+</g>
+      <g id="g240">
+</g>
+      <g id="g242">
+</g>
+      <g id="g244">
+</g>
+      <g id="g246">
+</g>
+      <g id="g248">
+</g>
+      <g id="g250">
+</g>
+      <g id="g252">
+</g>
+      <g id="g254">
+</g>
+      <g id="g256">
+</g>
+      <g id="g258">
+</g>
+      <g id="g260">
+</g>
+      <g id="g262">
+</g>
+      <g id="g264">
+</g>
+      <g id="g266">
+</g>
+      <g id="g268">
+</g>
+    </g>
+  </g>
 </svg>

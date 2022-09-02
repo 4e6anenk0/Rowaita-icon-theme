@@ -1,9 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="23.268233" inkscape:cx="-9.6698361" inkscape:cy="7.0267476" inkscape:current-layer="svg9"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m6 6s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h6v-3l-1 1h-4l-1-1h-2v-7h10v1h2v-2c0-1-1-1-1-1h-12z"/>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="m16 10-0.00001 4 0.25 2h1.5l0.25-2v-4zm0 7v2h2v-2z"/>
+    </defs>
+    <g id="g959">
+      <path style="fill:#f44336;fill-opacity:1" d="m 12.975167,1e-7" id="path293"/>
+      <g id="g295-2" transform="matrix(0,0.09045448,0.07169933,0,0.150242,4.6025731)" style="opacity:0.3;fill:#444444;fill-opacity:1">
+        <g id="g241-6" style="fill:#444444;fill-opacity:1">
+	<path d="m 50.569,124.138 h 23.1 c 4.7,0 9,-3.8 9,-8.601 V 81.138 c 0,-4.7 3.5,-9 8.2,-9 h 14.699 c 7.2,0 11.2,-8.101 6.801,-13.8 l -44.101,-55 c -3.5,-4.5 -10.2,-4.4 -13.6,0 l -42.9,55 c -4.4,5.699 -0.4,13.8 6.8,13.8 h 14.8 c 4.7,0 8.3,4.2 8.3,9 v 34.399 c 10e-4,4.801 4.101,8.601 8.901,8.601 z" id="path239-1" style="fill:#444444;fill-opacity:1"/>
+</g>
+        <g id="g243-8" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g245-7" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g247-9" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g249-2" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g251-0" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g253-2" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g255-3" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g257-7" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g259-5" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g261-9" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g263-2" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g265-2" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g267-8" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g269-9" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g271-7" style="fill:#444444;fill-opacity:1">
+</g>
+      </g>
+      <g id="g295" transform="matrix(0,0.09045448,-0.07169933,0,15.85069,-0.8977282)" style="opacity:0.3;fill:#444444;fill-opacity:1">
+        <g id="g241" style="fill:#444444;fill-opacity:1">
+	<path id="path239" style="fill:#444444;fill-opacity:1" d="M 9.9539588,62.898702 C 9.5602092,67.58137 13.169312,72.13323 18.569307,72.13323 h 14.790761 c 4.699995,0 8.313055,4.216608 8.313055,9.016603 v 34.377507 c 0.001,4.80099 4.096053,8.60799 8.896048,8.60799 h 23.103816 c 4.699996,0 9.004011,-3.807 9.004011,-8.60799 V 81.149833 c 0,-4.699995 3.483506,-9.016603 8.183501,-9.016603 h 14.704391 c 7.19999,0 11.20059,-8.084696 6.80159,-13.78369 l -0.99325,-1.225822 H 61.322162 V 13.756853 H 76.609547 L 68.274899,3.3509845 c -3.499996,-4.4999955 -10.203184,-4.3999956 -13.603181,0 L 11.767716,58.34954 c -1.099999,1.424749 -1.682507,2.988273 -1.8137572,4.549162 z"/>
+</g>
+        <g id="g243" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g245" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g247" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g249" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g251" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g253" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g255" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g257" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g259" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g261" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g263" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g265" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g267" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g269" style="fill:#444444;fill-opacity:1">
+</g>
+        <g id="g271" style="fill:#444444;fill-opacity:1">
+</g>
+      </g>
+      <path style="fill:#f44336;fill-opacity:1" d="m 13.325828,12.149932 c 0.550781,0 1,0.449219 1,1 0,0.550781 -0.449219,1 -1,1 -0.550781,0 -1,-0.449219 -1,-1 0,-0.550781 0.449219,-1 1,-1 z" id="path291"/>
+      <path style="fill:#f44336;fill-opacity:1" d="m 14.325828,5.1499315 v 5.0000005 c 0.0078,0.527344 -0.472656,1 -1,1 -0.527344,0 -1.007812,-0.472656 -1,-1 V 5.1499315 Z" id="path289"/>
+    </g>
+  </g>
 </svg>

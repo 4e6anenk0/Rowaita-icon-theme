@@ -1,8 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="22.693708" inkscape:cx="-8.019844" inkscape:cy="7.6893559" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 1.9980469 1 C 1.9980469 1 1.9183594 1.0044375 1.8183594 1.0234375 C 1.6142394 1.0535875 1.4596731 1.1269325 1.3457031 1.2265625 C 1.3237031 1.2435025 1.30225 1.26163 1.28125 1.28125 C 1.26165 1.30222 1.2434625 1.3236331 1.2265625 1.3457031 C 1.1269325 1.4596831 1.0535375 1.6142394 1.0234375 1.8183594 C 1.0040375 1.9237694 1 2 1 2 L 1 14 C 1 15 2 15 2 15 L 14 15 C 14 15 15 15 15 14 L 15 2 C 15 2 14.995963 1.9237694 14.976562 1.8183594 C 14.946412 1.6142394 14.873038 1.4596731 14.773438 1.3457031 C 14.756437 1.3236331 14.73835 1.30222 14.71875 1.28125 C 14.69785 1.26163 14.676397 1.2435025 14.654297 1.2265625 C 14.540327 1.1269325 14.385761 1.0535875 14.181641 1.0234375 C 14.076201 1.0040975 14 1 14 1 L 13.998047 1 L 1.9980469 1 z M 3 6 L 13 6 L 13 13 L 3 13 L 3 6 z M 8 7 L 5 9.5 L 8 12 L 8 10 L 11 10 L 11 9 L 8 9 L 8 7 z" transform="translate(4 4)"/>
+      <style id="current-color-scheme-53" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+      <style type="text/css" id="current-color-scheme-3675">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+      <style type="text/css" id="current-color-scheme-367">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+      <style type="text/css" id="current-color-scheme-36">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+      <style type="text/css" id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+      <style type="text/css" id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    </defs>
+    <g id="g319" transform="translate(30.737582,7.7796746)">
+      <path id="path5-5" style="fill:#444444;fill-opacity:1" d="m -28.73758,-6.7796746 c 0,0 -0.07624,0.00414 -0.181641,0.023437 -0.204199,0.0302 -0.358656,0.1034251 -0.472656,0.203125 -0.0221,0.0169 -0.04345,0.035087 -0.06445,0.054687 -0.0196,0.021 -0.03779,0.042353 -0.05469,0.064453 -0.0997,0.1139999 -0.172925,0.2684565 -0.203125,0.4726563 -0.0193,0.1054021 -0.02344,0.1816417 -0.02344,0.1816417 v 12 c 0,0.999999 1,1 1,1 h 12 c 0,0 1,-1e-6 1,-1 v -12 c 0,0 -0.0044,-0.076241 -0.02344,-0.1816406 -0.031,-0.2041998 -0.103126,-0.3586564 -0.203124,-0.4726563 -0.017,-0.0221 -0.03569,-0.043453 -0.05469,-0.064453 -0.021,-0.0196 -0.04245,-0.037789 -0.06445,-0.054687 -0.114,-0.0997 -0.268657,-0.172925 -0.472656,-0.203125 -0.105998,-0.019301 -0.18164,-0.023438 -0.18164,-0.023438 z m 1,5 h 10 v 7 h -10 z"/>
+      <path d="m -19.23758,1.720321 c 0,0.481935 -0.393066,0.8750004 -0.874999,0.8750004 h -2.625 v 1.749997 h -0.875 v -0.0069 c -0.232422,0.0034 -0.454589,-0.08887 -0.618653,-0.249516 l -1.749999,-1.750001 c -0.341798,-0.3417964 -0.341798,-0.895507 0,-1.237304 l 1.749999,-1.749934 c 0.164064,-0.160645 0.386231,-0.252931 0.618653,-0.252931 v -0.0034 h 0.875 v 1.750037 h 2.625 c 0.481933,0 0.874999,0.393067 0.874999,0.8749986 z m 0,0" id="path4-3" style="fill:#444444;fill-opacity:1;stroke-width:0.875"/>
+    </g>
+  </g>
 </svg>

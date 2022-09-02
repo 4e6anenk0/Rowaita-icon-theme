@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="11.346854" inkscape:cx="-24.676443" inkscape:cy="13.263588" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 8 0.001953125 C 6.3379 0.001953125 5 1.3400531 5 3.0019531 L 5 8.0039062 C 5 9.6658062 6.3379 11.001953 8 11.001953 C 9.6621 11.001953 11 9.6657063 11 8.0039062 L 11 3.0019531 C 11 1.3400531 9.6621 0.001953125 8 0.001953125 z M 2 7.0058594 L 2 8.0039062 C 2.00001 10.969106 4.168 13.431556 7 13.910156 L 7 16.001953 L 9 16.001953 L 9 13.910156 C 11.832 13.431496 14 10.969006 14 8.0039062 L 14 7.0058594 L 12 7.0058594 L 12 8.0039062 C 12 10.237006 10.2334 12.001953 8 12.001953 C 5.7666 12.001953 4 10.237006 4 8.0039062 L 4 7.0058594 L 2 7.0058594 z" transform="translate(4 4)"/>
+    </defs>
+    <path d="M 8,0 C 6.339844,0 5,1.3398439 5,2.9999999 V 8 c 0,1.660155 1.339844,3 3,3 1.660156,0 3,-1.339845 3,-3 V 2.9999999 C 11,1.3398439 9.660156,0 8,0 Z M 2,5.9999996 V 8.011719 c 0,2.964843 2.164062,5.429687 5,5.90625 V 16 h 2 v -2.082031 c 2.835938,-0.476563 5,-2.941407 5,-5.90625 V 5.9999997 H 12.5 V 8.011719 C 12.5,10.511719 10.507812,12.5 8,12.5 5.492188,12.5 3.5,10.511719 3.5,8.011719 V 5.9999997 Z m 0,0" fill="#2e3436" id="path2-3" style="fill:#f44336;fill-opacity:1"/>
+  </g>
 </svg>

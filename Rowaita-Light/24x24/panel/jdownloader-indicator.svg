@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="32.09375" inkscape:cx="-0.8412853" inkscape:cy="6.1226874" inkscape:current-layer="svg7"/>
+  <defs id="defs3">
+    <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 12,4 A 8,8 0 0 0 4.0000001,12 8,8 0 0 0 12,20 8,8 0 0 0 20,12 8,8 0 0 0 12,4 Z m -1,4.0000001 2,0 L 13,12 15,12 11.982422,16 9.0000001,12 11,12 11,8.0000001 Z"/>
+  </defs>
+  <g id="g241" transform="matrix(0.99999857,0,0,0.99999857,1.139e-5,1.144e-5)" style="fill:#444444;fill-opacity:1">
+    <path d="m 8,293.76664 c -3.8779999,0 -6.9999999,3.12201 -6.9999999,6.99999 0,3.87802 3.122,7.00003 7,7.00003 C 11.878,307.76666 15,304.64465 15,300.76663 c 0,-3.87798 -3.122,-6.99999 -7,-6.99999 z m 0,3 c 0.553999,0 1,0.44603 1,0.99999 v 3 h 1 a 1.0001,1.0001 0 0 1 0.707031,1.70706 l -1.9999999,1.99998 a 1.0001,1.0001 0 0 1 -1.4140621,0 l -2,-1.99998 a 1.0001,1.0001 0 0 1 0.7070311,-1.70707 h 1 v -3 c 0,-0.55396 0.446001,-0.99999 0.9999999,-0.99998 z" fill="currentColor" transform="translate(0,-292.76665)" style="color:#122036;fill:#444444;fill-opacity:1;stroke:none" class="ColorScheme-Text" id="path4"/>
+  </g>
+</g>
 </svg>

@@ -1,10 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 2.5,1.99965 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -2,-0.002 0,-3e-4 L 0,13.5 C 0,13.777 0.223,14 0.5,14 l 6,0 C 6.777,14 7,13.777 7,13.5 l 0,-10.50165 -0.5,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 10 2 C 9.446 2 9 2.446 9 3 L 9 13 C 9 13.554 9.446 14 10 14 L 15 14 C 15.554 14 16 13.554 16 13 L 16 3 C 16 2.446 15.554 2 15 2 L 10 2 z M 10.714844 3 L 14.285156 3 C 14.680871 3 15 3.3345 15 3.75 L 15 11.25 C 15 11.6655 14.680871 12 14.285156 12 L 10.714844 12 C 10.319129 12 10 11.6655 10 11.25 L 10 3.75 C 10 3.3345 10.319129 3 10.714844 3 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m 0,10 0,3.5 C 0,13.777 0.223,14 0.5,14 l 6,0 C 6.777,14 7,13.777 7,13.5 L 7,10 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="phone-battery-low.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.046875"
+     inkscape:cx="-28.6037"
+     inkscape:cy="9.6280428"
+     inkscape:current-layer="svg11" /><defs
+     id="defs3"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="current-color-scheme-5"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style></defs><path
+     style="fill:#ff9800;fill-opacity:1"
+     class="ColorScheme-NeutralText"
+     d="m 9.5,2 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 5 c 0.554,0 1,-0.446 1,-1 V 3 c 0,-0.554 -0.446,-1 -1,-1 z m 0.714844,1 h 3.570312 C 14.180871,3 14.5,3.3345 14.5,3.75 v 7.5 C 14.5,11.6655 14.180871,12 13.785156,12 H 10.214844 C 9.819129,12 9.5,11.6655 9.5,11.25 V 3.75 C 9.5,3.3345 9.819129,3 10.214844,3 Z"
+     id="path7" /><g
+     id="g312"
+     transform="translate(20.838222,-4.645413)"><path
+       id="path256"
+       style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586"
+       d="m -20.338222,16.750679 c 0,1.044633 0.807601,1.894734 1.8,1.894734 h 3.6 c 0.992398,0 1.8,-0.850101 1.8,-1.894734 v -6.94737 c 0,-1.0446339 -0.807602,-1.8947396 -1.8,-1.8947396 0,-0.6972616 -0.537601,-1.2631564 -1.2,-1.2631564 h -1.2 c -0.662399,0 -1.2,0.5658948 -1.2,1.2631564 -0.992399,0 -1.8,0.8501057 -1.8,1.8947396 z m 1.2,0 v -6.94737 c 0,-0.3480004 0.2688,-0.6315835 0.6,-0.6315835 h 3.6 c 0.331199,0 0.6,0.2835831 0.6,0.6315835 v 6.94737 c 0,0.347999 -0.268801,0.631578 -0.6,0.631578 h -3.6 c -0.3312,0 -0.6,-0.283579 -0.6,-0.631578 z" /><path
+       d="m -14.938143,16.119304 c 0,0.348634 -0.268199,0.631584 -0.6,0.631584 h -2.4 c -0.3318,0 -0.6,-0.28295 -0.6,-0.631584 0,-0.348627 0.2682,-0.631577 0.6,-0.631577 h 2.4 c 0.331801,0 0.6,0.28295 0.6,0.631577 z"
+       id="path250"
+       style="fill:#ff9800;fill-opacity:1;stroke-width:0.615586" /></g></svg>

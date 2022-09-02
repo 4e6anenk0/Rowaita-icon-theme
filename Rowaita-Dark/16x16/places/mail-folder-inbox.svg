@@ -23,18 +23,20 @@
      showgrid="false"
      inkscape:zoom="16.046875"
      inkscape:cx="-1.4333009"
-     inkscape:cy="14.114898"
+     inkscape:cy="14.239533"
      inkscape:current-layer="svg6" /><g
-     id="g858"><g
+     id="g858"
+     style="fill:#dfdfdf;fill-opacity:1"><g
        id="g257"
-       style="fill:#4285f4;fill-opacity:1"
+       style="fill:#dfdfdf;fill-opacity:1"
        transform="matrix(0.5,0,0,0.5,0,0.2)">
 	<path
    d="M 26.5,13 C 23.5,13 21,10.5 21,7.5 21,4.5 23.5,2 26.5,2 c 3,0 5.5,2.5 5.5,5.5 0,3 -2.5,5.5 -5.5,5.5 z"
    id="path255"
-   style="fill:#4285f4;fill-opacity:1" />
+   style="fill:#dfdfdf;fill-opacity:1" />
 </g><g
-       id="g851"><path
+       id="g851"
+       style="fill:#dfdfdf;fill-opacity:1"><path
          d="M 9.5,3.95 C 9.5,3.3 9.65,2.7 9.95,2.2 H 3.5 C 2.35,2.2 1.4,2.95 1.1,4 L 8,8.6 10.75,6.75 C 10,6.05 9.5,5.05 9.5,3.95 Z"
          id="path259"
          style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.5" /><path

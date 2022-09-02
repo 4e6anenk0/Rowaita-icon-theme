@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8 1.0039062 C 5.2386 1.0039062 3 3.2425062 3 6.0039062 C 3 6.1764962 3.01425 6.3358163 3.03125 6.5039062 C 3.04495 6.6711563 3.06705 6.8400763 3.09375 7.0039062 C 3.66623 10.518306 6 13.005859 8 15.005859 C 10 13.005859 12.33375 10.518406 12.90625 7.0039062 C 12.93295 6.8400763 12.95505 6.6711563 12.96875 6.5039062 C 12.98585 6.3358163 13 6.1764962 13 6.0039062 C 13 3.2425062 10.7614 1.0039062 8 1.0039062 z M 8 4.0039062 C 9.1046 4.0039062 10 4.8993362 10 6.0039062 C 10 7.1084763 9.10457 8.0039062 8 8.0039062 C 6.89543 8.0039062 6 7.1084762 6 6.0039062 C 6 4.8993363 6.89543 4.0039062 8 4.0039062 z" transform="translate(4 4)"/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
+  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="8.0234375" inkscape:cx="-50.975657" inkscape:cy="6.1694255" inkscape:current-layer="svg4"/>
+  <path d="m 8 0 c -3.3125 0 -6 2.6875 -6 6 c 0.007812 0.710938 0.136719 1.414062 0.386719 2.078125 l -0.015625 -0.003906 c 0.636718 1.988281 3.78125 5.082031 5.625 6.929687 h 0.003906 v -0.003906 c 1.507812 -1.507812 3.878906 -3.925781 5.046875 -5.753906 c 0.261719 -0.414063 0.46875 -0.808594 0.585937 -1.171875 l -0.019531 0.003906 c 0.25 -0.664063 0.382813 -1.367187 0.386719 -2.078125 c 0 -3.3125 -2.683594 -6 -6 -6 z m 0 3.691406 c 1.273438 0 2.308594 1.035156 2.308594 2.308594 s -1.035156 2.308594 -2.308594 2.308594 c -1.273438 -0.003906 -2.304688 -1.035156 -2.304688 -2.308594 c -0.003906 -1.273438 1.03125 -2.304688 2.304688 -2.308594 z m 0 0" fill="#2e3436" id="path2" style="fill:#dfdfdf;fill-opacity:1"/>
+</g>
 </svg>

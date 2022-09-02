@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs>
   <linearGradient id="linearGradient4202" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
    <stop offset="0" stop-color="#e81877"/>
    <stop offset=".313" stop-color="#dd1d8c"/>
@@ -29,7 +30,7 @@
    <stop offset="1" stop-color="#f25c13"/>
   </linearGradient>
  </defs>
- <g transform="translate(4,4)">
+ <g>
   <g transform="rotate(15,8,8)">
    <path style="fill:url(#linearGradient4206)" d="M 8,1 V 8 H 15 A 7,7 0 0 0 8,1 Z"/>
    <path style="fill:url(#linearGradient4202)" d="M 8,1 A 7,7 0 0 0 1,8 H 8 Z"/>
@@ -55,4 +56,5 @@
    <path style="fill:url(#linearGradient4204)" d="M 1,8 A 7,7 0 0 0 8,15 V 8 Z"/>
   </g>
  </g>
+</g>
 </svg>

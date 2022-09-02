@@ -1,11 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="16.453125" inkscape:cx="-12.581197" inkscape:cy="7.0807217" inkscape:current-layer="svg9"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <g transform="translate(-80 -596.36)">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m85 615.37 14-14v14z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m93 607.37-8 8h8v-8z"/>
- </g>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+      <style id="current-color-scheme-6" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <g id="g805">
+      <path style="fill:#444444;fill-opacity:1" d="M 1,9.9999998" id="path867"/>
+      <path style="fill:#444444;fill-opacity:1" d="M 1,9.9999998 C 0.445312,9.9999998 0,10.445312 0,11 v 3 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 11 C 3,10.445312 2.554688,9.9999998 2,9.9999998 Z" id="path865"/>
+      <path style="fill:#444444;fill-opacity:1" d="m 5,6.9999998 c -0.554688,0 -1,0.445312 -1,1 V 14 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 7.9999998 c 0,-0.554688 -0.445312,-1 -1,-1 z" id="path863"/>
+      <path style="opacity:0.3;fill:#444444;fill-opacity:1" d="m 9,3.9999998 c -0.554688,0 -1,0.4453119 -1,1 V 14 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 4.9999998 c 0,-0.5546881 -0.445312,-1 -1,-1 z" id="path861"/>
+      <path style="opacity:0.3;fill:#444444;fill-opacity:1" d="m 13,0.99999979 c -0.554688,0 -1,0.44531201 -1,1.00000001 V 14 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 1.9999998 C 15,1.4453118 14.554688,0.99999979 14,0.99999979 Z" id="path2"/>
+    </g>
+  </g>
 </svg>

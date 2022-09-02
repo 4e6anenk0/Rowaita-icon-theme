@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.1425781,3.99995 C 5.1425781,3.99995 4,3.9996281 4,5.1425281 V 18.857372 c 0,1.143 1.1425781,1.142578 1.1425781,1.142578 H 13 v -5.099609 c 0,-1.037577 0.862814,-1.900391 1.900391,-1.900391 H 20 V 5.1425281 C 20,3.9996281 18.857422,3.99995 18.857422,3.99995 Z"/>
- <path d="M 20,14 H 14.9 C 14.403,14 14,14.403 14,14.9 V 20 Z" style="opacity:0.3;fill:currentColor" class="ColorScheme-Text"/>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 1 C 2 1 1 0.99996254 1 2 L 1 14 C 1 15.000125 2 15 2 15 L 9 15 L 9 10.75 C 9 9.7952572 9.7952572 9 10.75 9 L 15 9 L 15 2 C 15 0.99996254 14 1 14 1 L 2 1 z"/>
+ <path d="m 15,10.000022 h -4.25 c -0.414167,0 -0.75,0.335833 -0.75,0.75 v 4.25 z" style="opacity:0.3;fill:currentColor" class="ColorScheme-Text"/>
+</g>
 </svg>

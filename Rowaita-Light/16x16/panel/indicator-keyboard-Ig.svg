@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="indicator-keyboard-Ig.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="65.8125"
+     inkscape:cx="7.9924027"
+     inkscape:cy="8.0151947"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:none;stroke:#444444;stroke-width:2;stroke-linecap:round;stroke-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2.0000006,12 H 5.9999994 M 2.0000007,3.9999997 H 5.9999994 M 4.0000023,12 V 3.9999997"
+     id="path5" />
+  <path
+     style="fill:none;stroke:#444444;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+     class="ColorScheme-Text"
+     d="m 13.000332,8.999735 h 1.999997 m -0.999999,0 -1.1e-5,2.000448 c 0,1 0,1 -1.000002,0.999552 -0.407777,0 -1.70151,4.48e-4 -1.999998,4.48e-4 -1.000002,0 -1.000002,0 -1.000002,-1 l 1.5e-5,-3.000451 -1.5e-5,-2.9995486 c 0,-1 0,-1 1.000002,-1 0.25081,0 1.615979,-3.629e-4 1.999998,-4.492e-4 1.000002,4.492e-4 1.000002,4.492e-4 1.000002,1.0004492"
+     id="path7" />
+</svg>

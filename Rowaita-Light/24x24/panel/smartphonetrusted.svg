@@ -1,10 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="16.453125" inkscape:cx="-8.1443495" inkscape:cy="11.092118" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <g transform="translate(1,1)">
-  <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 7,3 C 6,3 6,4 6,4 V 18 C 6,18 6,19 7,19 H 15 C 16,19 16,18 16,18 V 4 C 16,4 16,3 15,3 Z M 14,6 V 15 H 8 V 6.002 Z M 10.5,16 H 11.5 C 11.5,16 12,16 12,16.5 V 17.5 C 12,17.5 12,18 11.5,18 H 10.5 C 10.5,18 10,18 10,17.5 V 16.5 C 10,16.5 10,16 10.5,16 Z"/>
- </g>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <g id="g191" transform="matrix(0.4375,0,0,0.4375,1,1)" style="fill:#444444;fill-opacity:1;opacity:0.3">
+      <g id="g136" style="fill:#444444;fill-opacity:1">
+	<g id="iphone" style="fill:#444444;fill-opacity:1">
+		<path style="fill:#444444;fill-opacity:1" d="M 20,0 H 12 C 7.582,0 4,3.582 4,8 v 16 c 0,4.418 3.582,8 8,8 h 8 c 4.418,0 8,-3.582 8,-8 V 8 C 28,3.582 24.418,0 20,0 Z m -4,30.062 c -1.139,0 -2.062,-0.922 -2.062,-2.062 0,-1.14 0.924,-2.062 2.062,-2.062 1.138,0 2.062,0.922 2.062,2.062 0,1.14 -0.923,2.062 -2.062,2.062 z M 24,24 H 8 V 8 C 8,5.797 9.795,4 12,4 h 8 c 2.203,0 4,1.797 4,4 z" id="path133"/>
+	</g>
+</g>
+      <g id="g138" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g140" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g142" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g144" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g146" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g148" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g150" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g152" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g154" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g156" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g158" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g160" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g162" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g164" style="fill:#444444;fill-opacity:1">
+</g>
+      <g id="g166" style="fill:#444444;fill-opacity:1">
+</g>
+    </g>
+  </g>
 </svg>

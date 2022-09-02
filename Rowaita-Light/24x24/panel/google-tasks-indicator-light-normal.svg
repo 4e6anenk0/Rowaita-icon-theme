@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="11.634116" inkscape:cx="-4.6415215" inkscape:cy="13.967542" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <g transform="translate(-269.78 -485.05)">
-  <g transform="translate(1,-1)">
-   <path style="fill:currentColor" class="ColorScheme-Text" d="m270.78 490.05v16h16v-7.5l-2 2v3.5h-12v-12h12v3l2-2v-3h-16z"/>
-   <path style="fill:currentColor" class="ColorScheme-Text" d="m289.13 492.12-7.0254 7.1348-4.9414-5-1.3848 1.4043 4.9434 5.002 1.3711 1.3906 1.3828-1.4062 7.0273-7.1348-1.373-1.3906z"/>
+    </defs>
+    <path fill="#000000" fill-rule="evenodd" d="m 2.311115,3.3777693 h 5.777789 c 0.638191,0 1.155558,-0.5173663 1.155558,-1.1555576 0,-0.6381914 -0.517367,-1.1555577 -1.155558,-1.1555577 H 2.311115 C 1.034721,1.066654 0,2.101375 0,3.3777693 v 9.2444617 c 0,1.276429 1.034721,2.311115 2.311115,2.311115 h 9.244462 c 1.276429,0 2.311115,-1.034686 2.311115,-2.311115 v -2.311115 c 0,-0.638203 -0.517343,-1.155558 -1.155557,-1.155558 -0.638215,0 -1.155558,0.517355 -1.155558,1.155558 v 2.311115 H 2.311115 Z m 12.950451,-1.972664 c -0.451245,-0.45126845 -1.182944,-0.45126845 -1.63419,0 L 7.511125,7.5213565 6.594895,6.6051148 c -0.45128,-0.4512684 -1.182933,-0.4512684 -1.634213,0 -0.451268,0.45128 -0.451268,1.1829329 0,1.6342128 L 6.694019,9.972664 c 0.216713,0.216702 0.510629,0.338452 0.817106,0.338452 0.306477,0 0.600393,-0.12175 0.817106,-0.338452 l 6.933335,-6.933346 c 0.451245,-0.4512798 0.451245,-1.1829328 0,-1.6342127 z" id="path2678" style="fill:#444444;fill-opacity:1;stroke-width:1.15556"/>
   </g>
- </g>
 </svg>

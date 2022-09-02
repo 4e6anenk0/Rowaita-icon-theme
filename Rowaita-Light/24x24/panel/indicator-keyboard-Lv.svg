@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="65.8125" inkscape:cx="7.9924027" inkscape:cy="8.0151947" inkscape:current-layer="svg9"/>
+  <defs id="defs3">
+    <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 4.9929295,7.0070707 0,8.0000013 3.9999986,0 0,0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="M 17.012315,7.0069168 14.512317,15.006917 12.012318,7.0069168"/>
- </g>
+  </defs>
+  <path style="fill:none;stroke:#444444;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" class="ColorScheme-Text" d="M 2,3.9999987 V 12 h 3.9999986 v 0" id="path5"/>
+  <path style="fill:none;stroke:#444444;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" class="ColorScheme-Text" d="M 13.999997,4.0002349 11.499999,12.000235 9,4.0002349" id="path7"/>
+</g>
 </svg>

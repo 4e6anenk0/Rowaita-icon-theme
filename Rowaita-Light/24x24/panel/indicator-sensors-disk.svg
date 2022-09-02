@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><defs>
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <g transform="translate(1,1)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5,3 C 4.446,3 4,3.446 4,4 v 14 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 V 4 C 18,3.446 17.554,3 17,3 Z m 6,3 c 2.209139,0 4,1.790861 4,4 0,2.209139 -1.790861,4 -4,4 H 7 V 10 C 7,7.790861 8.790861,6 11,6 Z m 0,2 c -1.1045695,0 -2,0.8954305 -2,2 0,1.104569 0.8954305,2 2,2 1.104569,0 2,-0.895431 2,-2 0,-1.1045695 -0.895431,-2 -2,-2 z"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,1 C 2.446,1 2,1.446 2,2 V 14 C 2,14.554 2.446,15 3,15 H 13 C 13.554,15 14,14.554 14,14 V 2 C 14,1.446 13.554,1 13,1 Z M 8,3 A 4,4 0 0 1 12,7 4,4 0 0 1 8,11 H 4 V 7 A 4,4 0 0 1 8,3 Z M 8,5 A 2,2 0 0 0 6,7 2,2 0 0 0 8,9 2,2 0 0 0 10,7 2,2 0 0 0 8,5 Z"/>
+</g>
 </svg>

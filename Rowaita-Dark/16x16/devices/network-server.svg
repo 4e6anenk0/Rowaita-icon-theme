@@ -1,8 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,0 C 1.446,0 1,0.446 1,1 V 4 H 15 V 1 C 15,0.446 14.554,0 14,0 Z M 8,1 H 9 V 3 H 8 Z M 10,1 H 11 V 3 H 10 Z M 12,1 H 13 V 3 H 12 Z M 1,5 V 9 H 15 V 5 Z M 8,6 H 9 V 8 H 8 Z M 10,6 H 11 V 8 H 10 Z M 12,6 H 13 V 8 H 12 Z M 1,10 V 13 C 1,13.554 1.446,14 2,14 H 7 V 16 H 9 V 14 H 14 C 14.554,14 15,13.554 15,13 V 10 Z M 8,11 H 9 V 13 H 8 Z M 10,11 H 11 V 13 H 10 Z M 12,11 H 13 V 13 H 12 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="network-server.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.346854"
+     inkscape:cx="-45.38703"
+     inkscape:cy="18.463267"
+     inkscape:current-layer="svg7" /><defs
+     id="defs3"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style></defs><g
+     id="g315"
+     transform="scale(0.03125)"
+     style="fill:#dfdfdf;fill-opacity:1"><g
+       id="g258-3"
+       style="fill:#dfdfdf;fill-opacity:1">
+	<g
+   id="g256-6"
+   style="fill:#dfdfdf;fill-opacity:1">
+		<g
+   id="g254-7"
+   style="fill:#dfdfdf;fill-opacity:1">
+			<path
+   d="m 128,106.667 c -11.755,0 -21.333,9.579 -21.333,21.333 0,11.755 9.579,21.333 21.333,21.333 11.755,0 21.333,-9.579 21.333,-21.333 0,-11.755 -9.578,-21.333 -21.333,-21.333 z"
+   id="path250"
+   style="fill:#dfdfdf;fill-opacity:1" />
+			<path
+   d="M 426.667,256 C 473.728,256 512,217.728 512,170.667 V 85.333 C 512,38.272 473.728,0 426.667,0 H 85.333 C 38.272,0 0,38.272 0,85.333 v 85.333 C 0,217.728 38.272,256 85.333,256 h 149.333 v 88.363 c -29.845,7.765 -53.205,31.125 -60.971,60.971 H 21.333 C 9.557,405.333 0,414.891 0,426.667 0,438.443 9.557,448 21.333,448 h 152.363 c 9.536,36.693 42.667,64 82.304,64 39.637,0 72.768,-27.307 82.304,-64 h 152.363 c 11.797,0 21.333,-9.557 21.333,-21.333 0,-11.776 -9.536,-21.333 -21.333,-21.333 H 338.304 c -7.765,-29.845 -31.125,-53.205 -60.971,-60.971 V 256 Z M 128,192 c -35.285,0 -64,-28.715 -64,-64 0,-35.285 28.715,-64 64,-64 35.285,0 64,28.715 64,64 0,35.285 -28.715,64 -64,64 z M 448,170.667 C 448,182.443 438.443,192 426.667,192 h -128 c -11.776,0 -21.333,-9.557 -21.333,-21.333 0,-11.776 9.557,-21.333 21.333,-21.333 h 128 C 438.443,149.333 448,158.891 448,170.667 Z m -192,-64 c -11.776,0 -21.333,-9.557 -21.333,-21.333 C 234.667,73.558 244.224,64 256,64 h 128 c 11.776,0 21.333,9.557 21.333,21.333 0,11.776 -9.557,21.333 -21.333,21.333 H 256 Z"
+   id="path252"
+   style="fill:#dfdfdf;fill-opacity:1" />
+		</g>
+	</g>
+</g><g
+       id="g260-5"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g262-3"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g264-5"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g266-6"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g268-2"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g270"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g272"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g274"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g276"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g278"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g280"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g282"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g284"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g286"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g><g
+       id="g288"
+       style="fill:#dfdfdf;fill-opacity:1">
+</g></g></svg>

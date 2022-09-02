@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="65.8125" inkscape:cx="7.9924027" inkscape:cy="8.0151947" inkscape:current-layer="svg9"/>
+  <defs id="defs3">
+    <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path style="fill:#444444;fill-opacity:1" class="ColorScheme-Text" d="M 3.1992188 0 C 1.4264186 0 -2.9605947e-16 1.4264187 0 3.1992188 L 0 12.800781 C 0 14.573581 1.4264187 16 3.1992188 16 L 12.507812 16 A 2.5 2.5 0 0 1 12 14.5 A 2.5 2.5 0 0 1 12.507812 13 L 10.205078 13 L 7.9238281 9.21875 L 5.6425781 13 L 3.4160156 13 L 6.6738281 7.8457031 L 3.6230469 3 L 5.9179688 3 L 8.0351562 6.5996094 L 10.109375 3 L 12.349609 3 L 9.2714844 7.9570312 L 12.548828 12.947266 A 2.5 2.5 0 0 1 14.5 12 A 2.5 2.5 0 0 1 16 12.501953 L 16 3.1992188 C 16 1.4264186 14.573581 -2.9605947e-16 12.800781 0 L 3.1992188 0 z" id="path5"/>
+  <circle style="fill:currentColor" class="ColorScheme-NegativeText" cx="14.5" cy="14.5" r="1.5" id="circle7"/>
+</g>
+</svg>

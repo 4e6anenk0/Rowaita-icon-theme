@@ -6,13 +6,16 @@
    id="svg4"
    sodipodi:docname="network-server-symbolic.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8"><style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style></defs><sodipodi:namedview
      id="namedview6"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -23,79 +26,73 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="16.046875"
-     inkscape:cx="0.31158715"
-     inkscape:cy="11.310613"
-     inkscape:current-layer="svg4" />
-  <g
-     id="g256">
-    <g
-       id="g291"
-       transform="scale(0.07962299)"
+     inkscape:cx="0.37390458"
+     inkscape:cy="11.372931"
+     inkscape:current-layer="svg4" /><g
+     id="g315"
+     transform="scale(0.03125)"
+     style="fill:#444444;fill-opacity:1"><g
+       id="g258-3"
        style="fill:#444444;fill-opacity:1">
-      <path
-         d="m 144.957,45.186 h 29.681 c 6.065,0 11,-4.935 11,-11 V 11 c 0,-6.065 -4.935,-11 -11,-11 H 144.957 26.309 c -6.065,0 -11,4.935 -11,11 v 23.186 c 0,6.065 4.935,11 11,11 h 63.257 v 5.481 H 26.309 c -6.065,0 -11,4.935 -11,11 v 23.186 c 0,6.065 4.935,11 11,11 h 63.257 v 5.48 H 26.309 c -6.065,0 -11,4.935 -11,11 v 23.186 c 0,6.065 4.935,11 11,11 h 63.257 v 11.759 c -4.571,1.884 -8.375,5.252 -10.816,9.502 H 20.403 c -2.761,0 -5,2.238 -5,5 v 12 c 0,2.762 2.239,5 5,5 H 78.75 c 3.827,6.665 11.012,11.167 19.233,11.167 8.221,0 15.406,-4.502 19.232,-11.167 h 63.423 c 2.761,0 5,-2.238 5,-5 v -12 c 0,-2.762 -2.239,-5 -5,-5 h -63.423 c -2.321,-4.042 -5.875,-7.284 -10.149,-9.212 v -12.049 h 37.891 29.681 c 6.065,0 11,-4.935 11,-11 v -23.186 c 0,-6.065 -4.935,-11 -11,-11 h -29.681 -37.891 v -5.48 h 37.891 29.681 c 6.065,0 11,-4.935 11,-11 V 61.667 c 0,-6.065 -4.935,-11 -11,-11 H 144.957 107.066 V 45.186 Z M 175.638,11 v 23.186 c 0,0.552 -0.449,1 -1,1 H 149.957 V 10 h 24.681 c 0.551,0 1,0.448 1,1 z m 0,101.333 v 23.186 c 0,0.552 -0.449,1 -1,1 h -24.681 v -25.186 h 24.681 c 0.551,0 1,0.448 1,1 z m 0,-50.666 v 23.186 c 0,0.552 -0.449,1 -1,1 H 149.957 V 60.667 h 24.681 c 0.551,0 1,0.448 1,1 z"
-         id="path238"
-         style="fill:#444444;fill-opacity:1" />
-      <g
-         id="g240"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g242"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g244"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g246"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g248"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g250"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g252"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g254"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g267"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g258"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g260"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g262"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g264"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g266"
-         style="fill:#444444;fill-opacity:1">
-</g>
-      <g
-         id="g268"
-         style="fill:#444444;fill-opacity:1">
-</g>
-    </g>
-  </g>
-</svg>
+	<g
+   id="g256-6"
+   style="fill:#444444;fill-opacity:1">
+		<g
+   id="g254-7"
+   style="fill:#444444;fill-opacity:1">
+			<path
+   d="m 128,106.667 c -11.755,0 -21.333,9.579 -21.333,21.333 0,11.755 9.579,21.333 21.333,21.333 11.755,0 21.333,-9.579 21.333,-21.333 0,-11.755 -9.578,-21.333 -21.333,-21.333 z"
+   id="path250"
+   style="fill:#444444;fill-opacity:1" />
+			<path
+   d="M 426.667,256 C 473.728,256 512,217.728 512,170.667 V 85.333 C 512,38.272 473.728,0 426.667,0 H 85.333 C 38.272,0 0,38.272 0,85.333 v 85.333 C 0,217.728 38.272,256 85.333,256 h 149.333 v 88.363 c -29.845,7.765 -53.205,31.125 -60.971,60.971 H 21.333 C 9.557,405.333 0,414.891 0,426.667 0,438.443 9.557,448 21.333,448 h 152.363 c 9.536,36.693 42.667,64 82.304,64 39.637,0 72.768,-27.307 82.304,-64 h 152.363 c 11.797,0 21.333,-9.557 21.333,-21.333 0,-11.776 -9.536,-21.333 -21.333,-21.333 H 338.304 c -7.765,-29.845 -31.125,-53.205 -60.971,-60.971 V 256 Z M 128,192 c -35.285,0 -64,-28.715 -64,-64 0,-35.285 28.715,-64 64,-64 35.285,0 64,28.715 64,64 0,35.285 -28.715,64 -64,64 z M 448,170.667 C 448,182.443 438.443,192 426.667,192 h -128 c -11.776,0 -21.333,-9.557 -21.333,-21.333 0,-11.776 9.557,-21.333 21.333,-21.333 h 128 C 438.443,149.333 448,158.891 448,170.667 Z m -192,-64 c -11.776,0 -21.333,-9.557 -21.333,-21.333 C 234.667,73.558 244.224,64 256,64 h 128 c 11.776,0 21.333,9.557 21.333,21.333 0,11.776 -9.557,21.333 -21.333,21.333 H 256 Z"
+   id="path252"
+   style="fill:#444444;fill-opacity:1" />
+		</g>
+	</g>
+</g><g
+       id="g260-5"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g262-3"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g264-5"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g266-6"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g268-2"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g270"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g272"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g274"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g276"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g278"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g280"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g282"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g284"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g286"
+       style="fill:#444444;fill-opacity:1">
+</g><g
+       id="g288"
+       style="fill:#444444;fill-opacity:1">
+</g></g></svg>

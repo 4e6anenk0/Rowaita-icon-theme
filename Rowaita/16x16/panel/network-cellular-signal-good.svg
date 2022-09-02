@@ -1,9 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="network-cellular-signal-good.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.453125"
+     inkscape:cx="-19.449193"
+     inkscape:cy="14.921178"
+     inkscape:current-layer="svg9" /><defs
+     id="defs3"><style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 1,15.01 15,1.01 V 15.01 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 12,4.01 1,15.01 H 12 Z"/>
-</svg>
+  </style><style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style></defs><g
+     id="g874"
+     transform="translate(61.410731,1.4358973)"><path
+       style="fill:#dfdfdf;fill-opacity:1"
+       d="M -60.410731,8.5641025"
+       id="path867" /><path
+       style="fill:#dfdfdf;fill-opacity:1"
+       d="m -60.410731,8.5641025 c -0.554688,0 -1,0.4453122 -1,1.0000002 v 3.0000003 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 9.5641027 c 0,-0.554688 -0.445312,-1.0000002 -1,-1.0000002 z"
+       id="path865" /><path
+       style="fill:#dfdfdf;fill-opacity:1"
+       d="m -56.410731,5.5641025 c -0.554688,0 -1,0.445312 -1,1 v 6.0000005 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 6.5641025 c 0,-0.554688 -0.445312,-1 -1,-1 z"
+       id="path863" /><path
+       style="fill:#dfdfdf;fill-opacity:1"
+       d="m -52.410731,2.5641025 c -0.554688,0 -1,0.4453119 -1,1 v 9.0000005 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 3.5641025 c 0,-0.5546881 -0.445312,-1 -1,-1 z"
+       id="path861" /><path
+       style="opacity:0.3;fill:#dfdfdf;fill-opacity:1"
+       d="m -48.410731,-0.43589754 c -0.554688,0 -1,0.445312 -1,1 V 12.564103 c 0,0.554688 0.445312,1 1,1 h 1 c 0.554688,0 1,-0.445312 1,-1 V 0.56410246 c 0,-0.554688 -0.445312,-1 -1,-1 z"
+       id="path2" /></g></svg>

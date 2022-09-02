@@ -1,8 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="32.90625" inkscape:cx="-0.39506173" inkscape:cy="10.2868" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.1816406,6 C 3.5269406,6 3,6.5344188 3,7.1992188 L 3,16.800781 C 3,17.465781 3.5269406,18 4.1816406,18 L 15.818359,18 C 16.473359,18 17,17.465781 17,16.800781 L 17,14 l 5,2 0,-8 -5,2 0,-2.8007812 C 17,6.5344187 16.473359,6 15.818359,6 L 4.1816406,6 Z M 6,9 9,9 9,15 6,15 6,9 Z m 5,0 3,0 0,6 -3,0 0,-6 z"/>
+    </defs>
+    <path id="path5" style="fill:#444444;fill-opacity:1" class="ColorScheme-Text" d="M 1.1816406 2 C 0.52694196 2 1.4802959e-16 2.53442 0 3.1992188 L 0 12.800781 C 0 13.465781 0.52694196 14 1.1816406 14 L 10.818359 14 C 11.473359 14 12 13.465781 12 12.800781 L 12 10 L 16 12 L 16 4 L 12 6 L 12 3.1992188 C 12 2.53442 11.473359 2 10.818359 2 L 1.1816406 2 z M 3.5 4.5 L 5 4.5 C 5.2753899 4.5 5.5 4.7246101 5.5 5 L 5.5 11 C 5.5 11.27539 5.2753899 11.5 5 11.5 L 3.5 11.5 C 3.2246101 11.5 3 11.27539 3 11 L 3 5 C 3 4.7246101 3.2246101 4.5 3.5 4.5 z M 7 4.5 L 8.5 4.5 C 8.7753902 4.5 9 4.7246098 9 5 L 9 11 C 9 11.27539 8.7753902 11.5 8.5 11.5 L 7 11.5 C 6.7246098 11.5 6.5 11.27539 6.5 11 L 6.5 5 C 6.5 4.7246098 6.7246098 4.5 7 4.5 z "/>
+    <g fill="#2e3436" id="g6" style="fill:#444444;fill-opacity:1" transform="matrix(0.5,0,0,0.5,2,4)"/>
+  </g>
 </svg>
