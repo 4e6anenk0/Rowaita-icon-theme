@@ -4,7 +4,7 @@
    height="32"
    id="svg2"
    version="1.1"
-   sodipodi:docname="text-x-install.svg"
+   sodipodi:docname="application-sql (копія).svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:window-height="1006"
      id="namedview47"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="1.3559322"
-     inkscape:cy="14"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-27.900756"
+     inkscape:cy="3.5954582"
      inkscape:window-x="0"
      inkscape:window-y="1237"
      inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
      inkscape:deskcolor="#d1d1d1" /><defs
      id="defs4"><inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect872"
+       id="path-effect49"
        is_visible="true"
        lpeversion="1"
        satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
@@ -57,7 +57,7 @@
        hide_knots="false"
        nodesatellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10" /><inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect870"
+       id="path-effect47"
        is_visible="true"
        lpeversion="1"
        satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
@@ -213,145 +213,7 @@
        height="1.0008914"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.0051997931"
-         id="feGaussianBlur1220" /></filter><style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style><style
-       type="text/css"
-       id="current-color-scheme-75">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-367">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-36">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><style
-       type="text/css"
-       id="current-color-scheme-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style><inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect870-5"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="2"
-       chamfer_steps="10"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10" /><inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect868"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="2"
-       chamfer_steps="10"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10" /><radialGradient
-       r="2.5"
-       fy="43.5"
-       fx="4.9964824"
-       cy="43.5"
-       cx="4.9964824"
-       gradientTransform="matrix(3.2060542,2.6349059e-7,-8.2185947e-8,1.0000077,36.981009,15.99962)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4730-6"
-       xlink:href="#linearGradient3688-166-749-654" /><radialGradient
-       r="2.5"
-       fy="43.5"
-       fx="4.9929786"
-       cy="43.5"
-       cx="4.9929786"
-       gradientTransform="matrix(3.163875,0,0,0.99999995,-29.702994,-103.00012)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4732-2"
-       xlink:href="#linearGradient3688-166-749-654" /><inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect50"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="2"
-       chamfer_steps="10"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10" /><inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect48"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="2"
-       chamfer_steps="10"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false"
-       nodesatellites_param="F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10 @ F,0,0,1,0,2,0,10" /><radialGradient
-       r="2.5"
-       fy="43.5"
-       fx="4.9964824"
-       cy="43.5"
-       cx="4.9964824"
-       gradientTransform="matrix(3.2060542,2.6349059e-7,-8.2185947e-8,1.0000077,36.981009,15.99962)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4730-0"
-       xlink:href="#linearGradient3688-166-749-654" /><radialGradient
-       r="2.5"
-       fy="43.5"
-       fx="4.9929786"
-       cy="43.5"
-       cx="4.9929786"
-       gradientTransform="matrix(3.163875,0,0,0.99999995,-29.702994,-103.00012)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4732-6"
-       xlink:href="#linearGradient3688-166-749-654" /></defs><metadata
+         id="feGaussianBlur1220" /></filter></defs><metadata
      id="metadata7"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><path
@@ -363,7 +225,7 @@
      y="2.7520487"
      id="rect4897-1"
      style="opacity:0.2;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.472558;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1218)"
-     inkscape:path-effect="#path-effect872"
+     inkscape:path-effect="#path-effect49"
      d="M 6.0010357,2.7520487 H 25.998966 a 2,2 45 0 1 2,2 V 28.752049 a 2,2 135 0 1 -2,2 H 6.0010357 a 2,2 45 0 1 -2,-2 V 4.7520487 a 2,2 135 0 1 2,-2 z"
      sodipodi:type="rect" /><path
      width="24"
@@ -374,7 +236,7 @@
      y="2"
      id="rect4897"
      style="opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.472578;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     inkscape:path-effect="#path-effect870"
+     inkscape:path-effect="#path-effect47"
      d="m 6,2 h 20 a 2,2 45 0 1 2,2 v 24 a 2,2 135 0 1 -2,2 H 6 A 2,2 45 0 1 4,28 V 4 A 2,2 135 0 1 6,2 Z"
      sodipodi:type="rect" /><g
      aria-label="Aa"
@@ -384,8 +246,22 @@
        d="M 11.868958,-20.670654 6.517396,-6.1589355 h 10.722656 z m -2.226562,-3.886719 h 4.472656 L 25.228333,4.6027832 h -4.101562 l -2.65625,-7.4804687 H 5.3259897 l -2.65625,7.4804687 h -4.1601562 z"
        id="path1725" /><path
        d="m 39.271302,-6.3933105 q -4.355469,0 -6.035156,0.9960937 -1.679688,0.9960938 -1.679688,3.3984375 0,1.9140625 1.25,3.046875 1.269532,1.1132813 3.4375,1.1132813 2.988282,0 4.785157,-2.10937505 1.816406,-2.12890625 1.816406,-5.64453125 v -0.8007812 z m 7.167969,-1.484375 V 4.6027832 h -3.59375 V 1.2824707 q -1.230469,1.9921875 -3.066406,2.9492188 -1.835938,0.9375 -4.492188,0.9375 -3.359375,0 -5.351562,-1.875 -1.972657,-1.8945313 -1.972657,-5.0585938 0,-3.6914062 2.460938,-5.5664062 2.480469,-1.875 7.382812,-1.875 h 5.039063 V -9.557373 q 0,-2.480469 -1.640625,-3.828125 -1.621094,-1.367188 -4.570313,-1.367188 -1.875,0 -3.652343,0.449219 -1.777344,0.449219 -3.417969,1.347656 v -3.320312 q 1.972656,-0.761719 3.828125,-1.132813 1.855469,-0.390625 3.613281,-0.390625 4.746094,0 7.089844,2.460938 2.34375,2.460937 2.34375,7.4609375 z"
-       id="path1727" /></g><path
-     d="m 15.999976,8.9999999 c 0.793772,0 1.441175,0.647404 1.441175,1.4411781 v 6.794115 h 2.882353 v 1.441174 h -0.01124 c 0.0057,0.382813 -0.146372,0.748737 -0.410964,1.018959 l -2.882352,2.882352 c -0.56296,0.562963 -1.474954,0.562963 -2.037915,0 L 12.098689,19.695426 C 11.834097,19.425204 11.682096,19.05928 11.682096,18.676467 h -0.0056 v -1.441174 h 2.882356 v -6.794115 c 0,-0.7937741 0.647403,-1.4411781 1.441176,-1.4411781 z"
-     id="path4"
-     style="fill:#646464;fill-opacity:1;stroke-width:1.44118"
-     sodipodi:nodetypes="csccccccscccccscc" /></svg>
+       id="path1727" /></g><g
+     id="g359"
+     transform="matrix(0.15382812,0,0,0.15382812,30.102357,11.339706)"><path
+       fill="#e40000"
+       d="m -132.95518,47.791422 -2.06,-51.46 32.93,24.7 v 55.58 z"
+       id="path276"
+       style="stroke:#ffffff;stroke-width:2.12" /><path
+       fill="#7fe719"
+       d="m -102.07518,76.621422 49.4,-20.58 4.12,-51.46 -53.52,16.47 v 55.58 z"
+       id="path278"
+       style="stroke:#ffffff;stroke-width:2.12" /><path
+       fill="#729fcf"
+       d="m -135.01518,-3.668578 32.93,24.7 53.52,-16.47 -36.75,-21.88 z"
+       id="path280"
+       style="stroke:#ffffff;stroke-width:2.12" /><path
+       stroke-width="1.25"
+       d="m -85.47518,32.921422 -47.3,14 z m 0,0 33,23 z m 0,0 v -50"
+       id="path282"
+       style="stroke:#ffffff" /></g></svg>
