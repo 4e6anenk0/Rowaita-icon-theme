@@ -4,7 +4,7 @@
     <img width=200 height=200 src="logo.png" alt="Logo">
 </p>
 
-Rowaita is an icon pack for Linux. This solution is a fork of the [original](https://github.com/darkomarko42/Marwaita-Icons) icon pack (but it's still the same old implementation with filetype labels, for those who remember and love). 
+Rowaita is a Linux icon pack that combines simplicity and convenience. Informative mimtype icons will help you find the right file, even without having to look at the file extensions. And rounded shapes will give your environment a harmonious look. If you like standard Gnome icons and Papirus, Marwaita icons, then Rowaita icons are definitely worth your attention. 
 
 ## Installation instruction:
 
@@ -87,3 +87,7 @@ This project has mixed projects:
 
 - [Marwaita icons](https://github.com/darkomarko42/Marwaita-Icons): GNU General Public License v3.0
 - [Papirus Icons](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): GNU General Public License v3.0
+- [Adwaita icons](https://gitlab.gnome.org/GNOME/adwaita-icon-theme): GNU Lesser General Public License v3.0
+
+uses components:
+[charm-icons](https://github.com/jaynewey/charm-icons), [typicons.font](https://github.com/stephenhutchings/typicons.font), [Font-Awesome](https://github.com/FortAwesome/Font-Awesome), [dripicons](https://github.com/amitjakhu/dripicons), [ficons](https://github.com/fiction-com/ficons), [collecticons-lib](https://github.com/developmentseed/collecticons-lib), [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons), [remixicon](https://github.com/Remix-Design/remixicon), [octicons](https://github.com/primer/octicons)
