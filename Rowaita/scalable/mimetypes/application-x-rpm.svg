@@ -5,7 +5,7 @@
    viewBox="0 0 32 32"
    width="32"
    id="svg97"
-   sodipodi:docname="application-x-rpm.svg"
+   sodipodi:docname="application-x-rpm2.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -43,8 +43,8 @@
      id="namedview99"
      showgrid="false"
      inkscape:zoom="19.666667"
-     inkscape:cx="21.228813"
-     inkscape:cy="20.084745"
+     inkscape:cx="7.9322033"
+     inkscape:cy="26.872881"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -64,20 +64,22 @@
          id="stop4720"
          stop-color="#ee0000"
          offset="0"
-         style="stop-color:#ee0000;stop-opacity:1" />
+         style="stop-color:#cd0000;stop-opacity:1;" />
       <stop
          id="stop4722"
          stop-color="#ee0000"
-         offset="0.23060136" />
+         offset="0.23060136"
+         style="stop-color:#ce0000;stop-opacity:1;" />
       <stop
          id="stop4724"
          stop-color="#ee0000"
-         offset="0.23060136" />
+         offset="0.23060136"
+         style="stop-color:#e20c0c;stop-opacity:1;" />
       <stop
          id="stop4726"
          stop-color="#ee0000"
          offset="1"
-         style="stop-color:#ee0000;stop-opacity:1" />
+         style="stop-color:#e20c0c;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="f">
@@ -163,7 +165,7 @@
          stop-color="#fff"
          id="stop38" />
       <stop
-         offset=".344"
+         offset="0.36044097"
          stop-color="#fff"
          stop-opacity=".643"
          id="stop40" />
@@ -330,26 +332,21 @@
        id="path83"
        inkscape:connector-curvature="0" />
     <g
-       id="g926"
-       transform="matrix(0.0570602,0,0,0.05778755,166.29946,148.94208)"
+       transform="matrix(0.0570602,0,0,0.05778755,135.06306,194.10749)"
+       id="g910"
        style="stroke-width:0.855192">
-      <g
-         transform="translate(-547.42891,781.57684)"
-         id="g910"
-         style="stroke-width:0.855192">
-        <path
-           style="fill:#d1d1d1;stroke-width:0.855192;fill-opacity:1"
-           inkscape:connector-curvature="0"
-           class="hat"
-           d="m 230.2,110.6 c 0.1,-1.6 -0.1,-3.1 -0.4,-4.5 L 220.2,64.6 C 218,55.4 216,51.3 200.1,43.2 187.6,36.9 160.5,26.4 152.5,26.4 c -7.5,0 -9.6,9.5 -18.6,9.5 -9,0 -14.9,-7 -23.1,-7 -8.1,0 -12.7,5.2 -16.5,15.9 0,0 -10.8,30.4 -12.2,34.9 -0.2,0.8 -0.3,1.6 -0.3,2.5 0,11.8 45.8,50.7 109,50.7 16,0 39.4,-3.2 39.4,-22.3 z m 2.4,7.5 a 72,72 0 0 1 2.2,13 c 0,18 -20.2,28 -46.8,28 -60,0 -112.4,-35.1 -112.4,-58.4 0,-3.3 0.7,-6.5 2,-9.6 C 56.2,92.5 28,96.5 28,121 c 0,40.4 95.6,90.2 171.5,90.2 58,0 72.7,-26.3 72.7,-47.1 0,-16.3 -14,-34.8 -39.5,-45.9"
-           id="path893" />
-        <path
-           style="fill:#000000;stroke-width:0.855192"
-           inkscape:connector-curvature="0"
-           class="band"
-           d="m 232.7,118.2 c 1.2,4.3 1.9,8.6 2.2,13 0,18 -20.2,28 -46.8,28 -60,0 -112.5,-35.1 -112.5,-58.4 0,-3.3 0.6,-6.5 2,-9.6 l 4.6,-11.4 -0.3,2.4 c 0,11.9 46.6,50.7 109,50.7 15.9,0 39.3,-4.1 39.3,-22.3 0,-1.6 -0.1,-3.1 -0.4,-4.5 z"
-           id="path895" />
-      </g>
+      <path
+         style="fill:#d1d1d1;fill-opacity:1;stroke-width:0.855192"
+         inkscape:connector-curvature="0"
+         class="hat"
+         d="m 230.2,110.6 c 0.1,-1.6 -0.1,-3.1 -0.4,-4.5 L 220.2,64.6 C 218,55.4 216,51.3 200.1,43.2 187.6,36.9 160.5,26.4 152.5,26.4 c -7.5,0 -9.6,9.5 -18.6,9.5 -9,0 -14.9,-7 -23.1,-7 -8.1,0 -12.7,5.2 -16.5,15.9 0,0 -10.8,30.4 -12.2,34.9 -0.2,0.8 -0.3,1.6 -0.3,2.5 0,11.8 45.8,50.7 109,50.7 16,0 39.4,-3.2 39.4,-22.3 z m 2.4,7.5 a 72,72 0 0 1 2.2,13 c 0,18 -20.2,28 -46.8,28 -60,0 -112.4,-35.1 -112.4,-58.4 0,-3.3 0.7,-6.5 2,-9.6 C 56.2,92.5 28,96.5 28,121 c 0,40.4 95.6,90.2 171.5,90.2 58,0 72.7,-26.3 72.7,-47.1 0,-16.3 -14,-34.8 -39.5,-45.9"
+         id="path893" />
+      <path
+         style="fill:#000000;stroke-width:0.855192"
+         inkscape:connector-curvature="0"
+         class="band"
+         d="m 232.7,118.2 c 1.2,4.3 1.9,8.6 2.2,13 0,18 -20.2,28 -46.8,28 -60,0 -112.5,-35.1 -112.5,-58.4 0,-3.3 0.6,-6.5 2,-9.6 l 4.6,-11.4 -0.3,2.4 c 0,11.9 46.6,50.7 109,50.7 15.9,0 39.3,-4.1 39.3,-22.3 0,-1.6 -0.1,-3.1 -0.4,-4.5 z"
+         id="path895" />
     </g>
     <path
        d="m 142.6,182.01224 h 2.8 v 11.54331 c -0.2758,0 -0.5509,-0.63571 -0.8267,-0.63571 -0.2821,0 -0.5642,0.63571 -0.847,0.63571 -0.2268,0 -0.4543,-0.55655 -0.6811,-0.55655 -0.1484,0 -0.2968,0.55655 -0.4452,0.55655 z"

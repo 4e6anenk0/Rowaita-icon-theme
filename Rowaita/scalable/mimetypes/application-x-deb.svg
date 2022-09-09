@@ -43,8 +43,8 @@
      id="namedview99"
      showgrid="false"
      inkscape:zoom="19.666667"
-     inkscape:cx="12.533898"
-     inkscape:cy="12.610169"
+     inkscape:cx="1.3728813"
+     inkscape:cy="17.822034"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -64,20 +64,22 @@
          id="stop4720"
          stop-color="#f75e95"
          offset="0"
-         style="stop-color:#f75e95;stop-opacity:1" />
+         style="stop-color:#f24a83;stop-opacity:1;" />
       <stop
          id="stop4722"
          stop-color="#f75e95"
-         offset="0.23060136" />
+         offset="0.23060136"
+         style="stop-color:#f24a83;stop-opacity:1;" />
       <stop
          id="stop4724"
          stop-color="#f75e95"
-         offset="0.23060136" />
+         offset="0.23060136"
+         style="stop-color:#f75f95;stop-opacity:1;" />
       <stop
          id="stop4726"
          stop-color="#f75e95"
          offset="1"
-         style="stop-color:#f75e95;stop-opacity:1" />
+         style="stop-color:#f75e95;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="f">
@@ -159,11 +161,11 @@
          stop-color="#fff"
          id="stop36" />
       <stop
-         offset=".302"
+         offset="0.34400001"
          stop-color="#fff"
          id="stop38" />
       <stop
-         offset=".344"
+         offset="0.45110649"
          stop-color="#fff"
          stop-opacity=".643"
          id="stop40" />
@@ -319,7 +321,7 @@
        d="m 133.76452,183.0197 h 20.14185 c 1.17582,0 1.705,-0.2071 2.043,0.72162 l 2.04983,5.77292 V 208.041 c 0,1.12067 0.0703,0.94965 -1.10617,0.94965 H 131.1063 c -1.17582,0 -1.10549,0.17102 -1.10549,-0.94965 v -18.52676 l 2.04983,-5.77292 c 0.32775,-0.90924 0.53874,-0.72162 1.71388,-0.72162 z"
        display="block"
        overflow="visible"
-       style="display:block;overflow:visible;opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.70195049;marker:none"
+       style="display:block;overflow:visible;opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.70195;marker:none"
        id="path83-5"
        inkscape:connector-curvature="0" />
     <path
