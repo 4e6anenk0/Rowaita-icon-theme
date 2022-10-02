@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg249"
+   sodipodi:docname="sensors-voltage-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs253" />
+  <sodipodi:namedview
+     id="namedview251"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.046875"
+     inkscape:cx="-12.089581"
+     inkscape:cy="15.298929"
+     inkscape:current-layer="svg249" />
+  <path
+     d="M 12.584584,8.0275001 9.0504165,5.9791666 10.832084,1.7033333 c 0.055,-0.1116667 0.08583,-0.2375 0.08583,-0.37 0,-0.46000005 -0.370833,-0.83333335 -0.830833,-0.83333335 -0.2075005,0.00333 -0.3808345,0.069167 -0.5183345,0.1783333 l -0.05833,0.05 L 3.260416,6.6449999 c -0.190832,0.1808334 -0.285,0.4408334 -0.255,0.7016667 0.03,0.2608333 0.182501,0.4924995 0.409167,0.6249995 l 3.5350005,2.0500009 -1.8025,4.325 c -0.1524995,0.363333 -0.02833,0.783333 0.295,1.006666 0.144166,0.09833 0.31,0.146667 0.474166,0.146667 0.206667,0 0.413334,-0.0775 0.573334,-0.228333 L 12.739584,9.3533331 c 0.190833,-0.180833 0.285,-0.440833 0.255,-0.701666 -0.03083,-0.260834 -0.183334,-0.4925 -0.41,-0.624167 z"
+     id="path237"
+     style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.833333" />
+</svg>

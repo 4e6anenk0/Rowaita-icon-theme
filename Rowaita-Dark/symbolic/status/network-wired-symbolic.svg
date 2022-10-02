@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="network-wired-symbolic.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="-9.6875"
+     inkscape:cy="12.34375"
+     inkscape:current-layer="svg4" /><path
+     style="fill:#dfdfdf;stroke-width:1.06665"
+     d="M 1.0666419,0.533 C 1.0666419,0.533 0,0.533 0,1.5996428 v 9.5997852 c 0,1.066644 1.0666419,1.066644 1.0666419,1.066644 h 2.133286 l 1.0666432,1.066643 h 6.3998569 l 1.066644,-1.066643 h 2.133285 c 0,0 1.066643,0.138663 1.066643,-1.066644 V 1.5996428 C 14.933,0.533 13.866357,0.533 13.866357,0.533 Z M 2.133285,2.6662857 h 10.66643 V 10.132785 H 10.666428 L 9.5997859,11.199428 H 5.333214 L 4.2665711,10.132785 H 2.133285 Z"
+     id="path2" /></svg>

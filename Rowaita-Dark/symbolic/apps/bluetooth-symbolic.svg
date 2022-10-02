@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="bluetooth-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="22.693708"
+     inkscape:cx="2.2473189"
+     inkscape:cy="7.9537464"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g297"
+     transform="translate(-8.9568117e-4,8.6031448e-4)"
+     style="fill:#dfdfdf;fill-opacity:1">
+    <path
+       d="M 7.585938,0.0898438 C 7.230469,0.253906 7,0.609375 7,1 V 6.296875 L 4.65625,4.25 C 4.242188,3.886719 3.613281,3.925781 3.25,4.339844 2.886719,4.757812 2.925781,5.386719 3.34375,5.75 L 5.910156,8 3.34375,10.25 C 2.925781,10.613281 2.886719,11.242188 3.25,11.65625 3.613281,12.074219 4.242188,12.113281 4.65625,11.75 L 7,9.703125 V 15 c 0,0.390625 0.230469,0.746094 0.585938,0.910156 C 7.945312,16.070312 8.363281,16.011719 8.65625,15.75 l 4,-3.5 C 12.875,12.0625 13,11.789062 13,11.5 13,11.210938 12.875,10.9375 12.65625,10.75 L 9.515625,8 12.65625,5.25 C 12.875,5.0625 13,4.789062 13,4.5 13,4.210938 12.875,3.9375 12.65625,3.75 l -4,-3.5 C 8.363281,-0.0117188 7.945312,-0.0742188 7.585938,0.0898438 Z M 9,3.203125 10.484375,4.5 9,5.796875 Z m 0,7 L 10.484375,11.5 9,12.796875 Z m 0,0"
+       fill="#2e3436"
+       id="path2-3"
+       style="fill:#dfdfdf;fill-opacity:1" />
+  </g>
+</svg>

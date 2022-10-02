@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="audio-input-microphone-symbolic.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs8" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.346854"
+     inkscape:cx="-24.764573"
+     inkscape:cy="7.1826075"
+     inkscape:current-layer="svg4" /><path
+     d="M 8,0 C 6.339844,0 5,1.3398439 5,2.9999999 V 7.9999996 C 5,9.6601552 6.339844,11 8,11 9.660156,11 11,9.6601553 11,7.9999996 V 2.9999999 C 11,1.3398439 9.660156,0 8,0 Z M 2,5.9999996 V 8.0117187 C 2,10.976562 4.164062,13.441406 7,13.917969 V 16 h 2 v -2.082031 c 2.835938,-0.476563 5,-2.941407 5,-5.9062503 v -2.011719 h -1.5 v 2.011719 C 12.5,10.511719 10.507812,12.5 8,12.5 5.492188,12.5 3.5,10.511719 3.5,8.0117187 v -2.011719 z m 0,0"
+     fill="#2e3436"
+     id="path2-3"
+     style="fill:#dfdfdf;fill-opacity:1" /></svg>
