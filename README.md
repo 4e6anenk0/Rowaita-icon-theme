@@ -62,7 +62,7 @@ ___
 3) The mimetypes for the following files have been added to this icon pack. This is really cool for developers as it allows you to quickly browse files by type. For example:
 
 <p align="center">
-    <img width=500 src="img/icons_preview_11.png" alt="Mimetypes preview">
+    <img src="img/icons_preview_11.png" alt="Mimetypes preview">
 </p>
 
 ## Known problems and ways to solve them:
