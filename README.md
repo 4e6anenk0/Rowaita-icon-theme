@@ -66,8 +66,8 @@ ___
 </p>
 
 ## Known problems and ways to solve them:
-### Problem: Icons are missing or displayed incorrectly in Flatpack applications
-If your Flatpack apps are missing icons or not showing up, here's what you can do:
+### Problem: Icons are missing or displayed incorrectly in Flatpak applications
+If your Flatpak apps are missing icons or not showing up, here's what you can do:
 1) Make sure that the icons are actually in the required directory. That is, they must not be placed via a symbolic link.
 2) Grant permission to the directory of custom icons. This can be done globally or for the user. For example: 
 ```bash
