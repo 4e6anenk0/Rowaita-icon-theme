@@ -8,9 +8,26 @@ Rowaita is a Linux icon pack that combines simplicity and convenience. Informati
 
 ## Installation instruction:
 
-Move the folders (Rowaita, Rowaita-Dark, Rowaita-Light) of icons to: **/home/.local/share/icons** or **/home/.icons** (in user mode) or **/usr/share/icons** (in root mode).
+Put `Rowaita`, `Rowaita-Default-Dark`, `Rowaita-Default-Light` in the icons folder:
+**/home/.local/share/icons** or **/home/.icons** (in user mode) or **/usr/share/icons** (in root mode).
 
 \* If the desired target folder does not exist, you can create it
+
+Optionally, also move the necessary folders with the desired color:
+- Rowaita-Black-Dark
+- Rowaita-Black-Light
+- Rowaita-Cyan-Dark
+- Rowaita-Cyan-Light
+- Rowaita-Manjaro-Dark
+- Rowaita-Manjaro-Light
+- Rowaita-Navaho-Dark
+- Rowaita-Navaho-Light
+- Rowaita-Nord-Dark
+- Rowaita-Nord-light
+- Rowaita-Pink-Dark
+- Rowaita-Pink-Light
+- Rowaita-Ubuntu-Dark
+- Rowaita-Ubuntu-Light
 
 ## Key differences:
 
@@ -45,20 +62,8 @@ ___
 3) The mimetypes for the following files have been added to this icon pack. This is really cool for developers as it allows you to quickly browse files by type. For example:
 
 <p align="center">
-    <img width=500 src="img/img1.png" alt="Office icons">
+    <img width=500 src="img/icons_preview_11.png" alt="Mimetypes preview">
 </p>
-<p align="center">
-    <img width=500 src="img/img2.png" alt="Dev icons">
-</p>
-<p align="center">
-    <img width=500 src="img/img3.png" alt="Archives icons">
-</p>
-<p align="center">
-    <img width=500 src="img/img4.png" alt="Other icons">
-</p>
-
-Added or changed:
-epub, json, json-ld, doc, xls, ppt, xlsx, pptx, docx, colab, google doc, google pres, google spre, ipynb, djvu, csv, dockerfile, erlang, haskell, kotlin, objective c, scala, swift, dart, image, php, css, perl, 7zip, aab, acad, apk, illustrator, psd, less, sass, cobol, fortran, pascal, vala, flatpak, hex, lua, markdown, readme, certificatem yaml, tar, arduino, binary, sql, wasm, bzip, rar, tar, C#, C++, C, Swift, Obj C, erlang, go, haskell, hex, go, kotlin, lua, ruby, rust, sl ...
 
 ## Known problems and ways to solve them:
 ### Problem: Icons are missing or displayed incorrectly in Flatpack applications

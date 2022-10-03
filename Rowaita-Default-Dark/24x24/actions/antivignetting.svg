@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) "><sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview24396" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="64.1875" inkscape:cx="6.6212269" inkscape:cy="8.0467381" inkscape:current-layer="svg24394"/>
+  <defs id="defs24390">
+    <radialGradient id="radialGradient4475" cx="8" cy="8" r="7" fx="8" fy="8" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color:#dfdfdf;stop-opacity:0.09778567;" offset="0" stop-opacity=".2" id="stop24385"/>
+      <stop style="stop-color:#dfdfdf;stop-opacity:0.67480469;" offset="1" id="stop24387"/>
+    </radialGradient>
+  </defs>
+  <path style="fill:url(#radialGradient4475)" d="M 1 1 L 1 15 L 15 15 L 15 1 L 1 1 z" id="path24392"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="32.09375" inkscape:cx="5.4527751" inkscape:cy="5.406037" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <g id="g512" style="fill:#dfdfdf;fill-opacity:1">
+      <path style="fill:#dfdfdf;fill-opacity:1" d="M 10,1 V 3 H 8 v 10 h 2 v 2 h 5 v -5 h -5 v 2 H 9 V 4 h 1 v 2 h 5 V 1 Z" id="path301"/>
+      <path d="m 5.6394455,4.5128334 -1.649255,-0.955889 0.831433,-1.9953888 c 0.02567,-0.052111 0.04005,-0.1108334 0.04005,-0.1726667 C 4.8616735,1.1742222 4.6886205,1 4.4739575,1 4.3771275,1.00155 4.2962365,1.032278 4.2320705,1.083222 l -0.02722,0.023333 -2.916626,2.7611112 c -0.08905,0.084389 -0.132998,0.2057222 -0.118998,0.3274444 0.014,0.1217222 0.08517,0.2298331 0.190943,0.2916665 l 1.649643,0.956667 -0.841155,2.0183333 c -0.07117,0.1695554 -0.01322,0.3655554 0.137665,0.4697775 0.06728,0.045887 0.144664,0.068445 0.221274,0.068445 0.09644,0 0.192887,-0.036167 0.267552,-0.1065554 l 2.916626,-2.7618891 c 0.08905,-0.084389 0.132999,-0.205722 0.118999,-0.3274441 -0.01439,-0.1217225 -0.08555,-0.2298333 -0.191331,-0.291278 z" id="path237" style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.388886"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="22.627417" inkscape:cx="-3.4029514" inkscape:cy="10.451922" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+      <style id="current-color-scheme-5" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <g xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="g293" style="fill:#dfdfdf;fill-opacity:1">
+      <path style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.564693" d="m 12.000004,4.8576091 v 6.2891349 c 0,0.857609 -0.708061,0.853142 -0.708061,0.853142 h -0.0719 c -0.137254,0.0023 -0.272331,-0.02903 -0.389978,-0.09827 L 5.366013,8.7012177 C 5.124183,8.5627498 5,8.2813465 5,7.9999437 5,7.7185404 5.124183,7.4371375 5.366013,7.3009029 l 5.464056,-3.200402 C 10.947716,4.0312669 11.082793,4 11.220047,4 h 0.0719 c 0,0 0.708061,0 0.708061,0.8576093 z" id="path2-3"/>
+      <path d="M 3.5001413,4.0004625 4.4997853,4 c 0.2203124,-1.019e-4 0.5003625,0.2566966 0.500356,0.5714286 L 5,11.428572 c -6.5e-6,0.314732 -0.2795463,0.571429 -0.4998587,0.571429 h -1 C 3.2798289,12.000001 3,11.743304 3,11.428572 V 4.5714286 C 3,4.2566966 3.2798289,4.0005644 3.5001413,4.0004625 Z" id="path4-6" style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.478092" sodipodi:nodetypes="sssssssss"/>
+    </g>
+  </g>
+</svg>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
-  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
-  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="11.346854" inkscape:cx="-15.158386" inkscape:cy="13.175458" inkscape:current-layer="svg4"/>
-  <path d="m 15 1 v 2 h -14 v -2 z m 0 4 v 2 h -14 v -2 z m -7.875 3 c 0.492188 0 0.875 0.382812 0.875 0.875 v 6.25 c 0 0.492188 -0.382812 0.875 -0.875 0.875 h -6.25 c -0.492188 0 -0.875 -0.382812 -0.875 -0.875 v -6.25 c 0 -0.492188 0.382812 -0.875 0.875 -0.875 z m 7.875 1 v 2 h -6 v -2 z m -8.5 2 h -5 s -0.5 0 -0.5 0.5 v 1 c 0 0.5 0.5 0.5 0.5 0.5 h 5 s 0.5 0 0.5 -0.5 v -1 c 0 -0.5 -0.5 -0.5 -0.5 -0.5 z m 8.5 2 v 2 h -6 v -2 z m 0 0" fill="#2e3436" id="path2" style="fill:#dfdfdf;fill-opacity:1"/>
-</g>
-</svg>

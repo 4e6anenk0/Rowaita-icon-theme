@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
-  <g transform="translate(4.0, 4.0) scale(1 1) "><defs id="defs8"/>
-  <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview6" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="64.1875" inkscape:cx="7.9922103" inkscape:cy="8.0467381" inkscape:current-layer="svg4"/>
-  <path d="m 14.550781,2.5 v 11 c 0,1.5 -1.269531,1.492188 -1.269531,1.492188 h -0.128907 c -0.246093,0.0039 -0.488281,-0.05078 -0.699218,-0.171876 L 2.65625,9.222656 C 2.222656,8.980469 2,8.488281 2,7.996094 2,7.503906 2.222656,7.011719 2.65625,6.773438 L 12.453125,1.175781 C 12.664062,1.054688 12.90625,1 13.152343,1 h 0.128907 c 0,0 1.269531,0 1.269531,1.5 z m 0,0" fill="#2e3436" id="path2" style="fill:#dfdfdf;fill-opacity:1"/>
-</g>
-</svg>

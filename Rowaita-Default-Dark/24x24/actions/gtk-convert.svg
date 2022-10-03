@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="11.346854" inkscape:cx="-23.530751" inkscape:cy="10.002773" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+    </defs>
+    <path d="M 11.469359,4.2887093 C 10.523928,3.4034655 9.2970125,2.9182062 7.9954062,2.9193593 5.6529219,2.9212343 3.6306406,4.5275561 3.0722844,6.7555436 3.0315969,6.9177311 2.8871469,7.0322561 2.7199437,7.0322561 H 0.98698441 c -0.22675315,0 -0.39900942,-0.2058562 -0.35706567,-0.4287093 C 1.2842656,3.1287499 4.3350687,0.49999993 8,0.49999993 c 2.009512,0 3.834403,0.79040627 5.180897,2.07717187 L 14.260991,1.497078 C 14.718219,1.0398499 15.5,1.3636812 15.5,2.0103124 v 4.0542 c 0,0.4008562 -0.324947,0.7258125 -0.725803,0.7258125 h -4.05421 c -0.646631,0 -0.970462,-0.7817906 -0.513234,-1.2390469 z M 1.2258031,9.2096749 h 4.0542094 c 0.6466312,0 0.9704625,0.7817912 0.5132344,1.2390471 l -1.2626063,1.262597 c 0.9454313,0.885272 2.1724313,1.37054 3.474075,1.369359 2.3412754,-0.0019 4.3643624,-1.607184 4.9230004,-3.8361656 0.04069,-0.1621875 0.185137,-0.2767125 0.35234,-0.2767125 h 1.732988 c 0.226753,0 0.399009,0.2058562 0.357065,0.4287096 C 14.715734,12.87125 11.664931,15.5 8,15.5 5.9904875,15.5 4.1655969,14.709594 2.8191031,13.422828 L 1.7390094,14.502922 C 1.2817812,14.96015 0.49999999,14.636319 0.49999999,13.989687 V 9.9354876 c 0,-0.4008563 0.32494692,-0.7258127 0.72580311,-0.7258127 z" id="path560" style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.030242"/>
+  </g>
+</svg>

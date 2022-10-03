@@ -1,43 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   width="24px"
-   height="24px"
-   id="svg9"
-   sodipodi:docname="window-close.svg"
-   xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs13"><style
-       id="current-color-scheme-6"
-       type="text/css">
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px" height="24px">
+  <g transform="translate(4.0, 4.0) scale(1 1) ">
+    <sodipodi:namedview xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="16.453125" inkscape:cx="-14.647673" inkscape:cy="9.0864197" inkscape:current-layer="svg7"/>
+    <defs id="defs3">
+      <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style><style
-       id="current-color-scheme-36"
-       type="text/css">
+  </style>
+      <style id="current-color-scheme-36" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style><style
-       id="current-color-scheme-3"
-       type="text/css">
+  </style>
+      <style id="current-color-scheme-3" type="text/css">
    .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; }
-  </style></defs><sodipodi:namedview
-     id="namedview11"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="43.875"
-     inkscape:cx="11.988604"
-     inkscape:cy="12.022792"
-     inkscape:current-layer="svg9" /><path
-     style="fill:currentColor;stroke-width:1.06159"
-     class="ColorScheme-Text"
-     d="M 15.188097,7.7500379 A 1.0619815,1.0612046 0 0 0 14.437243,8.060938 L 12.002152,10.494247 9.577433,8.0713018 a 1.0619815,1.0612046 0 0 0 -0.01041,-0.0104 1.0619815,1.0612046 0 0 0 -0.744632,-0.306755 l -0.01041,0.014506 A 1.0619815,1.0612046 0 0 0 7.75,8.8298582 1.0619815,1.0612046 0 0 0 8.061127,9.5801642 l 2.435091,2.4333078 -2.435091,2.433309 A 1.0619815,1.0612046 0 0 0 7.754148,15.188796 1.0619815,1.0612046 0 0 0 8.816129,16.25 1.0619815,1.0612046 0 0 0 9.566984,15.939101 l 2.43509,-2.43331 2.42472,2.422945 A 1.0619815,1.0612046 0 0 0 15.188019,16.25 1.0619815,1.0612046 0 0 0 16.25,15.188796 1.0619815,1.0612046 0 0 0 15.938874,14.43849 l -2.443389,-2.439527 2.42472,-2.4229458 A 1.0619815,1.0612046 0 0 0 16.25,8.8112043 1.0619815,1.0612046 0 0 0 15.188019,7.7499998 Z"
-     id="path133" /></svg>
+  </style>
+    </defs>
+    <path style="fill:currentColor;stroke-width:1.06159" class="ColorScheme-Text" d="M 11.188097,3.750038 A 1.0619815,1.0612046 0 0 0 10.437243,4.0609381 L 8.002152,6.4942471 5.577433,4.0713018 a 1.0619815,1.0612046 0 0 0 -0.01041,-0.0104 1.0619815,1.0612046 0 0 0 -0.744632,-0.306755 l -0.01041,0.014506 A 1.0619815,1.0612046 0 0 0 3.75,4.8298582 1.0619815,1.0612046 0 0 0 4.061127,5.5801638 L 6.496218,8.0134724 4.061127,10.446781 A 1.0619815,1.0612046 0 0 0 3.754148,11.188796 1.0619815,1.0612046 0 0 0 4.816129,12.25 1.0619815,1.0612046 0 0 0 5.566984,11.939101 l 2.43509,-2.4333098 2.42472,2.4229448 A 1.0619815,1.0612046 0 0 0 11.188019,12.25 1.0619815,1.0612046 0 0 0 12.25,11.188796 1.0619815,1.0612046 0 0 0 11.938874,10.43849 L 9.495485,7.9989637 11.920205,5.5760177 A 1.0619815,1.0612046 0 0 0 12.25,4.8112044 1.0619815,1.0612046 0 0 0 11.188019,3.7499999 Z" id="path133"/>
+  </g>
+</svg>
