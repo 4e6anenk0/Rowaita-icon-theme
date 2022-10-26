@@ -18,8 +18,8 @@ Optionally, also move the necessary folders with the desired color:
 - Rowaita-Black-Light
 - Rowaita-Cyan-Dark
 - Rowaita-Cyan-Light
-- Rowaita-Green-Mint-Dark
-- Rowaita-Green-Mint-Light
+- Rowaita-Mint-Green-Dark
+- Rowaita-Mint-Green-Light
 - Rowaita-Manjaro-Dark
 - Rowaita-Manjaro-Light
 - Rowaita-Navaho-Dark
