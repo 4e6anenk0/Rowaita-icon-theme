@@ -40,8 +40,8 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="22.627418"
-     inkscape:cx="9.0156111"
-     inkscape:cy="17.522989"
+     inkscape:cx="9.0598052"
+     inkscape:cy="17.567183"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -209,11 +209,11 @@
        inkscape:collect="always"
        id="linearGradient2562">
       <stop
-         style="stop-color:#fb8441;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#85ccb7;stop-opacity:1;"
+         offset="0.32851851"
          id="stop2558" />
       <stop
-         style="stop-color:#fffa00;stop-opacity:1;"
+         style="stop-color:#00beff;stop-opacity:1;"
          offset="1"
          id="stop2560" />
     </linearGradient>

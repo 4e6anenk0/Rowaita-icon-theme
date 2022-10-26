@@ -41,7 +41,7 @@
      showgrid="false"
      inkscape:zoom="16"
      inkscape:cx="0.4375"
-     inkscape:cy="25.84375"
+     inkscape:cy="25.96875"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -971,7 +971,7 @@
          height="8.5045938"
          width="9.1624928"
          id="rect2504-6-1-3-3"
-         style="fill:#d96b2c;fill-opacity:1;stroke:none;stroke-width:0.542381;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#65a693;fill-opacity:1;stroke:none;stroke-width:0.542381;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          ry="2.172262" />
       <rect
          ry="2.7916567"
@@ -981,7 +981,7 @@
          height="17.53496"
          width="20.999062"
          id="rect2504-6-1"
-         style="fill:#d96b2c;fill-opacity:1;stroke:none;stroke-width:1.64198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="fill:#65a693;fill-opacity:1;stroke:none;stroke-width:1.64198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
       <rect
          ry="2.4965489"
          rx="2.253072"
@@ -1017,7 +1017,7 @@
          height="14.132964"
          width="20.997036"
          id="rect2504-6-1-2"
-         style="fill:#fb8441;fill-opacity:1;stroke:none;stroke-width:1.46753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+         style="fill:#85ccb7;fill-opacity:1;stroke:none;stroke-width:1.46753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
       <path
          inkscape:connector-curvature="0"
          d="m 12,33.923801 c -2.4929962,0 -4.4999921,2.085497 -4.4999921,4.675974 0,2.590507 2.0069959,4.676004 4.4999921,4.676004 2.492995,0 4.499992,-2.085497 4.499992,-4.676003 0,-2.590478 -2.006997,-4.675974 -4.499992,-4.675975 z m 0,2.003992 c 0.356141,0 0.642855,0.297949 0.642855,0.667991 v 2.003991 h 0.642858 a 0.64292034,0.66806414 0 0 1 0.454519,1.140313 l -1.285713,1.335981 a 0.64292034,0.66806414 0 0 1 -0.909039,0 l -1.285712,-1.335981 a 0.64292034,0.66806414 0 0 1 0.45452,-1.140319 h 0.642856 v -2.00399 c 0,-0.370044 0.286714,-0.667992 0.642856,-0.667986 z"

@@ -33,7 +33,7 @@
      showgrid="false"
      inkscape:zoom="22.627417"
      inkscape:cx="3.1377863"
-     inkscape:cy="17.699767"
+     inkscape:cy="17.788155"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -704,7 +704,7 @@
          height="8.5045938"
          width="9.1624928"
          id="rect2504-6-1-3-3"
-         style="fill:#d8b483;fill-opacity:1;stroke:none;stroke-width:0.542381;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="fill:#c7ae8e;fill-opacity:1;stroke:none;stroke-width:0.542381;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          ry="2.172262" /><rect
          ry="2.7916567"
          rx="2.5534816"
@@ -713,7 +713,7 @@
          height="17.53496"
          width="20.999062"
          id="rect2504-6-1"
-         style="fill:#d8b483;fill-opacity:1;stroke:none;stroke-width:1.64198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" /><rect
+         style="fill:#c7ae8e;fill-opacity:1;stroke:none;stroke-width:1.64198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" /><rect
          ry="2.4965489"
          rx="2.253072"
          y="30.614483"
@@ -745,7 +745,7 @@
          height="14.132964"
          width="20.997036"
          id="rect2504-6-1-2"
-         style="fill:#e5c9a0;fill-opacity:1;stroke:none;stroke-width:1.46753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" /><path
+         style="fill:#dac197;fill-opacity:1;stroke:none;stroke-width:1.46753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" /><path
          d="m 13.264205,39.689276 c -0.05724,-0.01834 -0.418825,-0.178685 -0.192853,-0.854147 h -0.0036 c 0.589,-0.596546 1.039126,-1.556478 1.039126,-2.501533 2e-6,-1.453175 -0.982645,-2.214962 -2.124703,-2.214962 -1.142772,0 -2.1200244,0.761429 -2.1200244,2.214962 0,0.948956 0.4476064,1.912771 1.0402304,2.507913 0.23089,0.59584 -0.182176,0.816988 -0.268529,0.847767 -0.8051287,0.256049 -2.9955395,1.532609 -2.9608858,3.391671 h 8.6538388 c 0.03866,-1.775938 -1.693948,-2.929171 -3.062943,-3.391671 z"
          id="path34"
          style="opacity:0.55;fill:#000000;fill-opacity:1;stroke-width:0.0355628"
