@@ -1,1 +1,40 @@
-bluetooth-disabled-symbolic.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="bluetooth-hardware-disabled-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs10" /><sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.046875"
+     inkscape:cx="-9.5657254"
+     inkscape:cy="5.6085686"
+     inkscape:current-layer="svg6"
+     inkscape:window-width="2560"
+     inkscape:window-height="1358"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" /><path
+     id="path234"
+     style="fill:#dfdfdf;fill-opacity:1;opacity:0.35"
+     d="M 7.4257812 0.001953125 A 1.0001 1.0001 0 0 0 7.0664062 0.099609375 A 1.0001 1.0001 0 0 0 6.5 1 L 6.5 5.0058594 L 8.5 5.0058594 L 8.5 3.0820312 L 10.884766 4.9902344 L 10.865234 5.0058594 L 13.5 5.0058594 A 1.0001 1.0001 0 0 0 13.125 4.21875 L 8.125 0.21875 A 1.0001 1.0001 0 0 0 7.4257812 0.001953125 z M 3.375 3.0078125 A 1 1 0 0 0 2.7109375 3.3867188 A 1 1 0 0 0 2.8867188 4.7890625 L 3.1660156 5.0058594 L 6.421875 5.0058594 L 4.1132812 3.2109375 A 1 1 0 0 0 3.375 3.0078125 z M 3.1582031 11 L 2.8867188 11.210938 A 1 1 0 0 0 2.7109375 12.613281 A 1 1 0 0 0 4.1132812 12.789062 L 6.4140625 11 L 3.1582031 11 z M 6.5 11 L 6.5 15 A 1.0001 1.0001 0 0 0 8.125 15.78125 L 13.125 11.78125 A 1.0001 1.0001 0 0 0 13.5 11 L 10.873047 11 L 10.884766 11.009766 L 8.5 12.917969 L 8.5 11 L 6.5 11 z " /><path
+     d="m 0 6 h 16 v 4 h -16 z m 0 0"
+     fill="#2e3436"
+     id="path4"
+     style="fill:#dfdfdf;fill-opacity:1" /></svg>

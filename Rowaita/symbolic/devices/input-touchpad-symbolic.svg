@@ -1,3 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 1,2 C 0,2 0,3 0,3 V 14 C 0,14 0,15 1,15 H 14 C 14,15 15,15 15,14 V 3 C 15,2 14,2 14,2 Z M 2,4 H 13 V 10 H 2 Z M 2,11 H 7 V 13 H 2 Z M 8,11 H 13 V 13 H 8 Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg753"
+   sodipodi:docname="input-touchpad-symbolic.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs757" />
+  <sodipodi:namedview
+     id="namedview755"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="67.6875"
+     inkscape:cx="5.5032318"
+     inkscape:cy="8.0073869"
+     inkscape:window-width="2560"
+     inkscape:window-height="1358"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg753" />
+  <path
+     style="fill:#444444"
+     d="m 1.5,1.5 c -1,0 -1,1 -1,1 v 11 c 0,0 0,1 1,1 h 13 c 0,0 1,0 1,-1 v -11 c 0,-1 -1,-1 -1,-1 z m 1,2 h 11 v 6 h -11 z m 0,7 h 5 v 2 h -5 z m 6,0 h 5 v 2 h -5 z"
+     id="path751" />
 </svg>
