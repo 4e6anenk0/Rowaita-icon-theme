@@ -13,25 +13,10 @@ Put `Rowaita`, `Rowaita-Default-Dark`, `Rowaita-Default-Light` in the icons fold
 
 \* If the desired target folder does not exist, you can create it
 
-Optionally, also move the necessary folders with the desired color:
-- Rowaita-Black-Dark
-- Rowaita-Black-Light
-- Rowaita-Cyan-Dark
-- Rowaita-Cyan-Light
-- Rowaita-Mint-Green-Dark
-- Rowaita-Mint-Green-Light
-- Rowaita-Manjaro-Dark
-- Rowaita-Manjaro-Light
-- Rowaita-Navaho-Dark
-- Rowaita-Navaho-Light
-- Rowaita-Nord-Dark
-- Rowaita-Nord-light
-- Rowaita-Pink-Dark
-- Rowaita-Pink-Light
-- Rowaita-Pressed-Paper-Dark
-- Rowaita-Pressed-Paper-Light
-- Rowaita-Ubuntu-Dark
-- Rowaita-Ubuntu-Light
+Optionally, also move the necessary folders with the desired color: 
+<p align="center">
+    <img width=500 src="img/screenshot2.png" alt="Screenshot of folders icons">
+</p>
 
 ## Key differences:
 
@@ -40,10 +25,6 @@ This fork includes some modifications and changes. Below you can see some key di
 1) Changed the design of some icons to better match the overall style.
 
 2) Changed the shape and design of folders. They are now rounded and have bold symbols on the folder icon. As for me, now they are perfectly combined with the Gnome UI. Look at this:
-
-<p align="center">
-    <img width=500 src="img/screenshot2.png" alt="Screenshot of folders icons">
-</p>
 
 <p align="center">
     <img src="img/screenshot1.png" alt="Screenshot of folders icons on desktop">
