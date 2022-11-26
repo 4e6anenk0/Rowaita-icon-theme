@@ -15,7 +15,7 @@ Put `Rowaita`, `Rowaita-Default-Dark`, `Rowaita-Default-Light` in the icons fold
 
 Optionally, also move the necessary folders with the desired color: 
 <p align="center">
-    <img width=500 src="img/screenshot2.png" alt="Screenshot of folders icons">
+    <img width=500 src="img/screenshot22.png" alt="Screenshot of folders icons">
 </p>
 
 ## Key differences:
