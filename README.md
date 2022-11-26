@@ -11,7 +11,6 @@ If you like this icons pack, please consider buying me a coffee:
 </p>
 
 <p align="center"> <a href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee ❤️" height="41"></a> </p>
-___
 
 ## Installation instruction:
 
