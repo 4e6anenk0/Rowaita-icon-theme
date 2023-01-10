@@ -53,9 +53,9 @@ If your Flatpak apps are missing icons or not showing up, here's what you can do
 2) Grant permission to the directory of custom icons. This can be done globally or for the user. For example: 
 ```bash
 # globally
-flatpak override --filesystem=~/.icons
+sudo flatpak override --filesystem=~/.icons
 # or for user
-flatpak --user override --filesystem=~/.icons
+sudo flatpak --user override --filesystem=~/.icons
 ```
 If it doesn't work, you can try this:
 ```bash
