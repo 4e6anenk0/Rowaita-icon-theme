@@ -6,7 +6,7 @@
    id="svg7"
    sodipodi:docname="network-wired-secure.svg"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,10 +20,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="46.536464"
-     inkscape:cx="2.7075542"
-     inkscape:cy="9.5516496"
-     inkscape:current-layer="svg7" /><defs
+     inkscape:zoom="23.268232"
+     inkscape:cx="-14.311358"
+     inkscape:cy="11.109568"
+     inkscape:current-layer="svg7"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" /><defs
      id="defs3"><style
        id="current-color-scheme"
        type="text/css">
@@ -44,11 +49,32 @@
        id="current-color-scheme-6-5"
        type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style><style
+       id="current-color-scheme-535"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="current-color-scheme-6-6"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style><style
+       id="current-color-scheme-53-2"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style><style
+       id="current-color-scheme-5-9"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style><style
+       id="current-color-scheme-6-5-1"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
   </style></defs><g
-     id="g795"><path
+     id="g1220"><path
        style="opacity:0.3;fill:#444444;fill-opacity:1;stroke-width:1.06667"
-       d="m 1.0666662,0.53333338 c 0,0 -1.06666595,0 -1.06666595,1.06666672 V 11.2 c 0,1.066667 1.06666595,1.066667 1.06666595,1.066667 h 2.1333341 l 1.0666669,1.066666 h 5.333333 V 11.2 H 5.3333332 L 4.2666672,10.133333 H 2.1333332 V 2.6666668 H 12.8 V 9.066667 h 2.133333 V 1.6000001 c 0,-1.06666672 -1.066666,-1.06666672 -1.066666,-1.06666672 z"
-       id="path2" /><path
+       d="m 1.583333,1.0498334 c 0,0 -1.066666,0 -1.066666,1.0666667 V 11.7165 c 0,1.066667 1.066666,1.066667 1.066666,1.066667 h 2.133334 l 1.066667,1.066666 H 9.383333 V 11.7165 H 5.85 L 4.783334,10.649833 H 2.65 V 3.1831668 h 10.666666 v 4.6666663 h 2.133333 v -5.733333 c 0,-1.0666668 -1.066666,-1.0666668 -1.066666,-1.0666668 z"
+       id="path2-2"
+       sodipodi:nodetypes="cssccccccccccccscc" /><path
        style="display:inline;fill:#444444;fill-opacity:1;stroke-width:0.416667"
-       d="m 13,9.667 c -0.923333,0 -1.666667,0.743334 -1.666667,1.666668 v 0.833333 h -0.416666 c -0.230834,0 -0.416667,0.185833 -0.416667,0.416667 v 2.5 c 0,0.230833 0.185833,0.416666 0.416667,0.416666 h 4.166666 c 0.230834,0 0.416667,-0.185833 0.416667,-0.416666 v -2.5 c 0,-0.230834 -0.185833,-0.416667 -0.416667,-0.416667 H 14.666667 V 11.333668 C 14.666667,10.410334 13.923333,9.667 13,9.667 Z m 0,0.833334 c 0.461667,0 0.833333,0.371667 0.833333,0.833334 v 0.833333 h -1.666666 v -0.833333 c 0,-0.461667 0.371666,-0.833334 0.833333,-0.833334 z"
-       id="path240" /></g></svg>
+       d="m 12.983333,9.1168332 c -0.923333,0 -1.666667,0.7433335 -1.666667,1.6666678 v 0.833333 H 10.9 c -0.230834,0 -0.416667,0.185833 -0.416667,0.416667 v 2.5 c 0,0.230833 0.185833,0.416666 0.416667,0.416666 h 4.166666 c 0.230834,0 0.416667,-0.185833 0.416667,-0.416666 v -2.5 c 0,-0.230834 -0.185833,-0.416667 -0.416667,-0.416667 H 14.65 v -0.833333 c 0,-0.9233344 -0.743334,-1.6666678 -1.666667,-1.6666678 z m 0,0.8333335 c 0.461667,0 0.833333,0.3716673 0.833333,0.8333343 v 0.833333 H 12.15 v -0.833333 c 0,-0.461667 0.371666,-0.8333343 0.833333,-0.8333343 z"
+       id="path240-7" /></g></svg>

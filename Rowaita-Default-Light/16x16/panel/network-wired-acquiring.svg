@@ -6,7 +6,7 @@
    id="svg9"
    sodipodi:docname="network-wired-acquiring.svg"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,15 +21,21 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="16.453125"
-     inkscape:cx="-19.023742"
-     inkscape:cy="11.45679"
-     inkscape:current-layer="svg9" /><defs
+     inkscape:cx="-23.673314"
+     inkscape:cy="11.517569"
+     inkscape:current-layer="svg9"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" /><defs
      id="defs3"><style
        id="current-color-scheme"
        type="text/css">
    .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
   </style></defs><g
-     id="g803"><g
+     id="g803"
+     transform="translate(0.5335,1.0671425)"><g
        id="g1290"
        style="fill:#444444;fill-opacity:1"
        transform="translate(57.365835,1.1588783)"><path

@@ -5,8 +5,8 @@
    viewBox="0 0 32 32"
    width="32"
    id="svg97"
-   sodipodi:docname="application-x-java-archive2.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="application-x-java-archive1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -38,13 +38,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      id="namedview99"
      showgrid="false"
      inkscape:zoom="6.9532168"
-     inkscape:cx="-1.6539107"
-     inkscape:cy="13.878468"
+     inkscape:cx="-1.5820016"
+     inkscape:cy="13.590832"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -337,7 +337,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g362"
-       transform="translate(0.27930331,0.69854)">
+       transform="translate(-7.5987483)">
       <g
          id="g1327"
          style="fill:#d40055">

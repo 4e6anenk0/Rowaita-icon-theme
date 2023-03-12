@@ -6,7 +6,7 @@
    id="svg4"
    sodipodi:docname="network-wired-symbolic.svg"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,9 +22,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="-9.6875"
-     inkscape:cy="12.34375"
-     inkscape:current-layer="svg4" /><path
+     inkscape:cx="-14.46875"
+     inkscape:cy="12.40625"
+     inkscape:current-layer="svg4"
+     inkscape:window-width="2560"
+     inkscape:window-height="1359"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" /><path
      style="fill:#dfdfdf;stroke-width:1.06665"
-     d="M 1.0666419,0.533 C 1.0666419,0.533 0,0.533 0,1.5996428 v 9.5997852 c 0,1.066644 1.0666419,1.066644 1.0666419,1.066644 h 2.133286 l 1.0666432,1.066643 h 6.3998569 l 1.066644,-1.066643 h 2.133285 c 0,0 1.066643,0.138663 1.066643,-1.066644 V 1.5996428 C 14.933,0.533 13.866357,0.533 13.866357,0.533 Z M 2.133285,2.6662857 h 10.66643 V 10.132785 H 10.666428 L 9.5997859,11.199428 H 5.333214 L 4.2665711,10.132785 H 2.133285 Z"
+     d="m 1.6001419,1.6001425 c 0,0 -1.0666419,0 -1.0666419,1.0666428 v 9.5997857 c 0,1.066644 1.0666419,1.066644 1.0666419,1.066644 h 2.133286 l 1.0666432,1.066643 h 6.3998569 l 1.066644,-1.066643 h 2.133285 c 0,0 1.066643,0.138663 1.066643,-1.066644 V 2.6667853 c 0,-1.0666428 -1.066643,-1.0666428 -1.066643,-1.0666428 z M 2.666785,3.7334282 h 10.66643 v 7.4664998 h -2.133287 l -1.066642,1.066643 H 5.866714 L 4.8000711,11.199928 H 2.666785 Z"
      id="path2" /></svg>
