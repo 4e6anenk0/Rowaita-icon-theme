@@ -41,21 +41,6 @@ This fork includes some modifications and changes. Below you can see some key di
     <img src="img/icons_preview_11.png" alt="Mimetypes preview">
 </p>
 
-## Known problems and ways to solve them:
-### Problem: Icons are missing or displayed incorrectly in Flatpak applications
-If your Flatpak apps are missing icons or not showing up, here's what you can do:
-1) Make sure that the icons are actually in the required directory. That is, they must not be placed via a symbolic link.
-2) Grant permission to the directory of custom icons. This can be done globally or for the user. For example: 
-```bash
-# globally
-sudo flatpak override --filesystem=~/.icons
-# or for user
-sudo flatpak --user override --filesystem=~/.icons
-```
-If it doesn't work, you can try this:
-```bash
-sudo flatpak override --system --filesystem=~/.icons
-```
 ___
 
 This project has mixed projects:
