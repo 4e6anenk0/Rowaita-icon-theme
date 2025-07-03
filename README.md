@@ -6,11 +6,6 @@
 
 Rowaita is a Linux icon pack that combines simplicity and convenience. Informative mimtype icons will help you find the right file, even without having to look at the file extensions. And rounded shapes will give your environment a harmonious look. If you like standard Gnome icons and Papirus, Marwaita icons, then Rowaita icons are definitely worth your attention. 
 ___
-<p align="center"> 
-If you like this icons pack, please consider buying me a coffee:
-</p>
-
-<p align="center"> <a href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee ❤️" height="41"></a> </p>
 
 ## Installation instruction:
 
@@ -62,12 +57,6 @@ If it doesn't work, you can try this:
 sudo flatpak override --system --filesystem=~/.icons
 ```
 ___
-
-<p align="center"> 
-If you like this icons pack, please consider buying me a coffee:
-</p>
-
-<p align="center"> <a href="https://www.buymeacoffee.com/yppppl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee ❤️" height="41"></a> </p>
 
 This project has mixed projects:
 
